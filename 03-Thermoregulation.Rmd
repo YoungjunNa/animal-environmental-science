@@ -1,3 +1,0 @@
-# Thermoregulation  
-
-Here is a review of existing methods.
