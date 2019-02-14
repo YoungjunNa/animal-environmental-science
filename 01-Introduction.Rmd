@@ -1,8 +1,5 @@
 # Introduction {#intro}
 
-![](figures/polar.jpeg){width=49% height=280px}
-![](figures/tropical.jpeg){width=49% height=280px}
-
 All living creatures constantly interact with the environment. To understanding individual animals, we have to understand the relationship they have with their environment. Basically, animals can find food, shelter, protection, and mates from the environment called **habitat**. The animal habitat includes both phisical (non-living) and biotic (livinig) components (see Table \@ref(tab:habitat)).      
 
 ```{r habitat, fig.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE}
@@ -20,5 +17,6 @@ tibble::tribble(
   knitr::kable(caption = "Components of habitat (physical and biotic)", booktabs = TRUE)
 ```
 
-Animal habitat is constantly changed over time. Not only natural disasters (Eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in facility are controlled by the human. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
+Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in facility are controlled by the human. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
 
+![](figures/polar.jpeg)

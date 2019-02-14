@@ -1,3 +1,17 @@
-# Thermoregulation  
+# Temperature  
+All chemical reactions are affected by temperature. Especially, 
 
-Here is a review of existing methods.
+## Poikilotherm and homoiotherm
+
+## Thermoregulation
+
+## Temperature humadity index (THI)  
+
+## Effects on production
+### Dairy cattle
+### Beef cattle
+### Swine
+### Poultry
+
+![](figures/camels.jpeg)
+(Isfahan Province, Aran o Bidgol, Iran)  

@@ -1,4 +1,4 @@
---- 
+---
 title: "Animal Environmental Science"
 author: ["Sangrak Lee; Youngjun Na"]
 date: "Last update: `r Sys.Date()`"
@@ -17,7 +17,7 @@ This website is (and will always be) __free to use__, and is licensed under the 
 
 ![](figures/monkey.jpeg)  
 (Snow Monkey Niseko, Kutchan-chō, Japan)
-
+  
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
