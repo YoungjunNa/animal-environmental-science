@@ -2,7 +2,7 @@
 
 All living creatures constantly interact with the environment. To understanding individual animals, we have to understand the relationship they have with their environment. Basically, animals can find food, shelter, protection, and mates from the environment called **habitat**. The animal habitat includes both phisical (non-living) and biotic (livinig) components (see Table \@ref(tab:habitat)).      
 
-```{r habitat, fig.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE}
+```{r habitat, fig.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 tibble::tribble(
   ~Physical, ~Biotic,
