@@ -1,6 +1,8 @@
 # Introduction {#intro}
 
-All living creatures constantly interact with the environment. To understanding individual animals, we have to understand the relationship they have with their environment. Basically, animals can find food, shelter, protection, and mates from the environment called **habitat**. The animal habitat includes both phisical (non-living) and biotic (livinig) components (see Table \@ref(tab:habitat)).      
+All living creatures constantly interact with the environment. To understanding individual animals, we have to understand the relationship they have with their environment. Also, animals affect the environment. From birth to death, animals generate carbon dioxide, methane, feces, and urine. The excretes from animals are builded with molecules such as carbon, nitrogen, sulfur, and phosphorus, and are recycled within and between ecosystems. 
+
+Basically, animals can find food, shelter, protection, and mates from the environment called *habitat*. The animal habitat includes both phisical (non-living) and biotic (livinig) components (see Table \@ref(tab:habitat)).      
 
 ```{r habitat, fig.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
@@ -17,6 +19,9 @@ tibble::tribble(
   knitr::kable(caption = "Components of habitat (physical and biotic)", booktabs = TRUE)
 ```
 
-Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in facility are controlled by the human. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
+Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
 
-![](figures/polar.jpeg)
+```{r snow-dog, fig.cap="Alaskan Malamute has the heat-conserving features.", echo = FALSE, out.width = "60%", fig.align='center'}
+knitr::include_graphics("figures/polar.jpeg")
+```
+

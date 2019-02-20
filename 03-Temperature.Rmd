@@ -1,23 +1,23 @@
 # Temperature  
-Temperature is a quantity expressing of the amount of heat. Because a rate of every chemical reaction occurs in the animal's body is affected by the temperature, it is a very important factor to all animals. Like most chemical reactions, an enzyme-catalyzed reaction rate in the animal's body increases as the temperature is raised. 
+Temperature is a quantity expressing of the amount of heat. Because a rate of every chemical reaction occurs in the animal's body is affected by the temperature, it is a very important factor to all animals. Like most chemical reactions, an enzyme-catalyzed reaction rate in the animal's body increases as the temperature is raised. However, extremely high or low temperature results in loss of activity or lose the structure for most enzymes (*denaturation*; Figure \@ref(fig:q10)). 
 
-<!-- The molecular structure of enzyme is broken -->
-<!-- However, as the high temperature breaks the structure of the enzyme,  -->
-<!-- On the other hand, lower temperatures lead to slower chemical reactions.  -->
-<!-- In the case of enzymatic reactions, this is complicated by the fact that many enzymes are adversely affected by high temperatures.  -->
-
-```{r q10, fig.cap="The effects of temperature on enzyme activity [@q10]. Top - increasing temperature increases the rate of reaction (Q10 coefficient). Middle - the fraction of folded and functional enzyme decreases above its denaturation temperature. Bottom - consequently, an enzyme's optimal rate of reaction is at an intermediate temperature.", echo = FALSE, out.width = "60%"}
+```{r q10, fig.cap="The effects of temperature on enzyme activity [@q10]. Top - increasing temperature increases the rate of reaction (Q10 coefficient). Middle - the fraction of folded and functional enzyme decreases above its denaturation temperature. Bottom - consequently, an enzyme's optimal rate of reaction is at an intermediate temperature.", echo = FALSE, out.width = "60%", fig.align='center'}
 
 knitr::include_graphics("figures/q10.png")
 ```
 
-
 ## Poikilotherm and homeotherm
 
+Key factors for animal surviving are to adapt to external environmental changes and maintain a consistent internal environment. The animal can be divided into two types for response to external temperatures: *poikilotherm* (cold-blooded animals) and *homeotherm* (warm-blooded animals). Examples of poikilotherms are most fish, amphibians, and reptiles. Their internal body temperature varies considerably according to their external environments. On the other hand, homeotherm maintains their thermal homeostasis. The examples of homeotherm are birds and mammals.
+
+```{r flor, fig.cap="Green frog on blue surface.", echo = FALSE, out.width = "100%", fig.align='center'}
+
+knitr::include_graphics("figures/flog.jpeg")
+```
 
 ## Thermoregulation
 
-```{r norm-body-temp, tab.cap="Normal body temperature of the domestic animals", tidy=FALSE, echo=FALSE, message=FALSE}
+```{r norm-body-temp, tab.cap="Normal body temperature of the domestic animals", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
 tibble::tribble(
   ~"Animal", ~"Normal temperature (°C)", ~"Animal", ~"Normal temerature (°C)",
   "Cattle", "38.5", "Donkey", "38.2",
@@ -30,6 +30,8 @@ tibble::tribble(
 ```
 
 ## Temperature humadity index (THI)  
+
+The productivity of domestic animals is primarily affected by air temperature, and altered by wind, humidity, and radiation.
 
 ## Effects on production
 ### Dairy cattle
