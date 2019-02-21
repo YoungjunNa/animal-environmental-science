@@ -29,7 +29,7 @@ tibble::tribble(
 
 However, the capacity to maintain the homeostasis is broken when the animals let the harsh environments and differ by their species. **Animals may be limited in their growth and their occurrence by the minimum, maximum, and optimum condition** [@shelford] (Fig. \@ref(fig:law-of-tol)).
 
-```{r law-of-tol, fig.cap="Shelford's law of tolerance", echo=FALSE, message=FALSE, fig.width=6, fig.height=3}
+```{r law-of-tol, fig.cap="Shelford's law of tolerance", echo=FALSE, message=FALSE, fig.width=6, fig.height=3, fig.align='center'}
 library(ggplot2)
 library(ggthemes)
 
@@ -58,6 +58,12 @@ The optimum range of environmental condition may differ within the same organism
   3. Physiological adaptation
 
 Structural adaptation is the changes in physical features (e.g. body shape, skin, and internal organs) of the animal. Behavioral adaptation is the changes in behaviors (e.g. searching for food, mating, vocalizations, and mitigation) of the animal. Physiological adaptation is the changes in the animal body functions such as growth, temperature regulation, and ionic balance. Sometimes, adapted animal create a new species (*speciation*).
+
+
+```{r adaptation, fig.cap="Migration is an example of a behavioral adaptation. Grey whales swim from the Arctic to Mexico every year.", echo = FALSE, out.width = "100%", fig.align='center'}
+
+knitr::include_graphics("figures/adaptation.jpeg")
+```
 
 ### Acclimatization
 

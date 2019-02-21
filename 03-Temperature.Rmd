@@ -8,14 +8,56 @@ knitr::include_graphics("figures/q10.png")
 
 ## Poikilotherm and homeotherm
 
-Key factors for animal surviving are to adapt to external environmental changes and maintain a consistent internal environment. The animal can be divided into two types for response to external temperatures: *poikilotherm* (cold-blooded animals) and *homeotherm* (warm-blooded animals). Examples of poikilotherms are most fish, amphibians, and reptiles. Their internal body temperature varies considerably according to their external environments. On the other hand, homeotherm maintains their thermal homeostasis. The examples of homeotherm are birds and mammals.
+Key factors for animal surviving are to adapt to external environmental changes and maintain a consistent internal environment. The animal can be divided into two types for response to external temperatures: *poikilotherm* (cold-blooded animals) and *homeotherm* (warm-blooded animals). Examples of poikilotherms are most fish, amphibians, and reptiles. Their internal body temperature varies considerably according to their external environments. On the other hand, homeotherm maintains their thermal homeostasis regardless of the external temperature. The examples of homeotherm are birds and mammals.
 
 ```{r flor, fig.cap="Green frog on blue surface.", echo = FALSE, out.width = "100%", fig.align='center'}
 
 knitr::include_graphics("figures/flog.jpeg")
 ```
 
+### Poikilotherm
+
+The term derives from the acient Greek language *poikilos* (ποικίλος; changeable) and *thermos* (θερμός; heat). The body temperature of poikilotherms varies considerably than those of homeotherms (Figure \@ref(fig:BT-comparision)). They generally use solar radiation for maintaining their body temperature and have four to ten enzyme systems that can operate at different ambient temperature because the temperature affects the chemical reactions.
+
+### Homeoterm
+
+Homeotherms can maintain body temperature independently from ambient temperatures by regulating the metabolic process. They preserve their body temperature by muscle contraction and brown adipose tissue is catabolized for heat production [@grigg2004evolution]. In hot environments, they use evaporative cooling (sweating or panting) for maintaining their body temperature. Most of the domestic animals are homeotherm.
+
+In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
+
+```{r BT-comparision, fig.cap="Comparison of body temperature response by snake (poikiloterm) and bobcat (homeoterm) to changing ambient temperature.", out.width = "70%", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
+library(tidyverse)
+temp <- tibble::tribble(
+  ~"animal", ~"ambient", ~"body",
+  "Snake (Poikiloterm)", 3, 2.8,
+  "Snake (Poikiloterm)", 10, 10.1,
+  "Snake (Poikiloterm)", 20, 19.8,
+  "Snake (Poikiloterm)", 30, 30.8,
+  "Snake (Poikiloterm)", 35, 36.0,
+  "Snake (Poikiloterm)", 40, 39.0,
+  "Bobcat (Homeoterm)", 3, 36.3,
+  "Bobcat (Homeoterm)", 10, 36.5,
+  "Bobcat (Homeoterm)", 20, 36.6,
+  "Bobcat (Homeoterm)", 30, 37.0,
+  "Bobcat (Homeoterm)", 35, 37.5,
+  "Bobcat (Homeoterm)", 40, 37.5
+)
+
+ggplot(temp, aes(ambient, body, color = animal)) +
+  geom_point(size = 2) +
+  geom_line() +
+  xlab("Ambient temperature, °C") +
+  ylab("Body temperature, °C") +
+  theme(legend.position = "bottom")
+```
+
+### Heterotherm
+
+Heterotherms exhibit the characteristics of both poikilotherm and homeotherm. They can switch between poikilothermic and homeothermic strategies. In some bat species, for example, body temperature and metabolic rate are elevated only when they are active. When they at rest, metabolic rate is drastically dropped thereby the body temperature is decreased to the ambient temperature. 
+
 ## Thermoregulation
+
+Thermoregulatory physiology is mainly controlled by nervous and endocrine systems.
 
 ```{r norm-body-temp, tab.cap="Normal body temperature of the domestic animals", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
 tibble::tribble(
@@ -39,5 +81,4 @@ The productivity of domestic animals is primarily affected by air temperature, a
 ### Swine
 ### Poultry
 
-![](figures/camels.jpeg)
-(Isfahan Province, Aran o Bidgol, Iran)  
+
