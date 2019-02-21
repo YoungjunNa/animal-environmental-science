@@ -47,8 +47,7 @@ tibble::tribble(
   geom_point(size = 2) +
   geom_line() +
   xlab("Ambient temperature, °C") +
-  ylab("Body temperature, °C") +
-  theme(legend.position = "bottom")
+  ylab("Body temperature, °C") 
 ```
 
 ### Heterotherm
