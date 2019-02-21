@@ -29,18 +29,18 @@ In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs
 library(tidyverse)
 temp <- tibble::tribble(
   ~"animal", ~"ambient", ~"body",
-  "Snake (Poikiloterm)", 3, 2.8,
-  "Snake (Poikiloterm)", 10, 10.1,
-  "Snake (Poikiloterm)", 20, 19.8,
-  "Snake (Poikiloterm)", 30, 30.8,
-  "Snake (Poikiloterm)", 35, 36.0,
-  "Snake (Poikiloterm)", 40, 39.0,
-  "Bobcat (Homeoterm)", 3, 36.3,
-  "Bobcat (Homeoterm)", 10, 36.5,
-  "Bobcat (Homeoterm)", 20, 36.6,
-  "Bobcat (Homeoterm)", 30, 37.0,
-  "Bobcat (Homeoterm)", 35, 37.5,
-  "Bobcat (Homeoterm)", 40, 37.5
+  "Snake", 3, 2.8,
+  "Snake", 10, 10.1,
+  "Snake", 20, 19.8,
+  "Snake", 30, 30.8,
+  "Snake", 35, 36.0,
+  "Snake", 40, 39.0,
+  "Bobcat", 3, 36.3,
+  "Bobcat", 10, 36.5,
+  "Bobcat", 20, 36.6,
+  "Bobcat", 30, 37.0,
+  "Bobcat", 35, 37.5,
+  "Bobcat", 40, 37.5
 )
 
 ggplot(temp, aes(ambient, body, color = animal)) +
