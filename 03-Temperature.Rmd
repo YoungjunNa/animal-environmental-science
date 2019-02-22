@@ -10,21 +10,6 @@ knitr::include_graphics("figures/q10.png")
 
 Key factors for animal surviving are to adapt to external environmental changes and maintain a consistent internal environment. The animal can be divided into two types for response to external temperatures: *poikilotherm* (cold-blooded animals) and *homeotherm* (warm-blooded animals). Examples of poikilotherms are most fish, amphibians, and reptiles. Their internal body temperature varies considerably according to their external environments. On the other hand, homeotherm maintains their thermal homeostasis regardless of the external temperature. The examples of homeotherm are birds and mammals.
 
-```{r flor, fig.cap="Green frog on blue surface.", echo = FALSE, out.width = "100%", fig.align='center'}
-
-knitr::include_graphics("figures/flog.jpeg")
-```
-
-### Poikilotherm
-
-The term derives from the acient Greek language *poikilos* (ποικίλος; changeable) and *thermos* (θερμός; heat). The body temperature of poikilotherms varies considerably than those of homeotherms (Figure \@ref(fig:body-temp-comparision)). They generally use solar radiation for maintaining their body temperature and have four to ten enzyme systems that can operate at different ambient temperature because the temperature affects the chemical reactions.
-
-### Homeoterm
-
-Homeotherms can maintain body temperature independently from ambient temperatures by regulating the metabolic process. They preserve their body temperature by muscle contraction and brown adipose tissue is catabolized for heat production [@grigg2004evolution]. In hot environments, they use evaporative cooling (sweating or panting) for maintaining their body temperature. Most of the domestic animals are homeotherm.
-
-In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
-
 ```{r body-temp-comparision, fig.cap="Comparison of body temperature response by snake (poikiloterm) and bobcat (homeoterm) to changing ambient temperature.", echo=FALSE, message=FALSE, fig.width=6, fig.height=4.5, fig.align='center'}
 
 library(ggplot2)
@@ -50,13 +35,20 @@ tibble::tribble(
   ylab("Body temperature, °C") 
 ```
 
-### Heterotherm
+### Poikilotherm
 
-Heterotherms exhibit the characteristics of both poikilotherm and homeotherm. They can switch between poikilothermic and homeothermic strategies. In some bat species, for example, body temperature and metabolic rate are elevated only when they are active. When they at rest, metabolic rate is drastically dropped thereby the body temperature is decreased to the ambient temperature. 
+The term derives from the acient Greek language *poikilos* (ποικίλος; changeable) and *thermos* (θερμός; heat). The body temperature of poikilotherms varies considerably than those of homeotherms (Figure \@ref(fig:body-temp-comparision)). They generally use solar radiation for maintaining their body temperature and have four to ten enzyme systems that can operate at different ambient temperature because the temperature affects the chemical reactions.
 
-## Thermoregulation
+```{r flor, fig.cap="Green frog on blue surface.", echo = FALSE, out.width = "100%", fig.align='center'}
 
-Thermoregulatory physiology is mainly controlled by nervous and endocrine systems.
+knitr::include_graphics("figures/flog.jpeg")
+```
+
+### Homeoterm
+
+Homeotherms can maintain body temperature independently from ambient temperatures by regulating the metabolic process. They preserve their body temperature by muscle contraction and brown adipose tissue is catabolized for heat production [@grigg2004evolution]. In hot environments, they use evaporative cooling (sweating or panting) for maintaining their body temperature. Most of the domestic animals are homeotherm.
+
+In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
 
 ```{r norm-body-temp, tab.cap="Normal body temperature of the domestic animals", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
 tibble::tribble(
@@ -69,6 +61,37 @@ tibble::tribble(
   "Goat", "39.5", "Piglet", "39.8"
 ) %>% knitr::kable(caption = "Normal body temperature of the domestic animals; Body temperatures may be 1°C above or below these temperatures.", booktabs = TRUE)
 ```
+
+```{r kimetal, fig.cap="Infrared cameras image that cows generating the heats. @kim2018image developed the algorithms for tracking the cows using IR camera video.", echo = FALSE, out.width = "100%", fig.align='center'}
+
+if (knitr:::is_latex_output()) {
+  knitr::include_graphics("figures/kimetal.png")
+} else {
+  knitr::include_graphics("figures/kimetal.gif")
+}
+```
+
+### Heterotherm
+
+Heterotherms exhibit the characteristics of both poikilotherm and homeotherm. They can switch between poikilothermic and homeothermic strategies. In some bat species, for example, body temperature and metabolic rate are elevated only when they are active. When they at rest, metabolic rate is drastically dropped thereby the body temperature is decreased to the ambient temperature. 
+
+## Thermoregulation
+
+In homeotherms, thermoregulatory physiology is mainly controlled by nervous and endocrine systems. If the ambient temperature is going to cold, they generate heat via metabolic processes to keep their body temperature. In contrast, poikilotherms use external sources of temperature to keep their body temperatures (Table \@ref(tab:cooling)). 
+
+```{r cooling, tab.cap="Cooling and heating methods for poikilotherms", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+tibble::tribble(
+  ~"Methods", ~"Cooling", ~"Heating",
+   "Convection", "Increasing blood flow to body surfaces", "Climbing to higher ground up trees, ridges, rocks; Entering a warm water or air current; Building an insulated nest or burrow",
+  "Conduction", "Lying on cool ground; Staying wet in a river, lake or sea; Covering in cool mud", "Lying on a hot surface",
+  "Radiation", "Releasing heat by radiating it away from the body", "Lying in the sun; Folding skin to reduce exposure"
+) %>%
+  knitr::kable(caption = "Cooling and heating methods for poikilotherms", booktabs = TRUE)
+```
+
+
+
 
 ## Temperature humadity index (THI)  
 
