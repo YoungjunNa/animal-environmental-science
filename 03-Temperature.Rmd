@@ -25,7 +25,7 @@ Homeotherms can maintain body temperature independently from ambient temperature
 
 In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
 
-```{r BT-comparision, fig.cap="Comparison of body temperature response by snake (poikiloterm) and bobcat (homeoterm) to changing ambient temperature.", out.width = "70%", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center'}
+```{r BT-comparision, fig.cap="Comparison of body temperature response by snake (poikiloterm) and bobcat (homeoterm) to changing ambient temperature.", echo=FALSE, message=FALSE, fig.width=6, fig.height=4.5, fig.align='center'}
 
 library(ggplot2)
 tibble::tribble(
