@@ -1,15 +1,34 @@
 # Animal and environment {#chapter2}
+
 ## External environment
-Animal never separates from the stimuli from outside. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components like those of animal habitat \@ref(intro).   
+Animal never separates from the stimuli from outside. Basically, animals can find food, shelter, protection, and mates from the environment called *habitat*. The animal habitat includes both phisical (non-living) and biotic (livinig) components (Table \@ref(tab:habitat)). 
+
+```{r habitat, tab.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+tibble::tribble(
+  ~Physical, ~Biotic,
+  "Temperature", "Plant matter",
+  "Humidity", "Predators",
+  "Oxygen", "Parasites",
+  "Wind", "Competitors",
+  "Soil", "Individuals of the same species",
+  "Light intensity", "",
+  "Elevation", ""
+) %>%
+  knitr::kable(caption = "Components of habitat (physical and biotic)", booktabs = TRUE)
+```
+
+Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
+
+## Internal environment
+> "The living body, though it has need of the surrounding environment, is nevertheless relatively independent of it." --- Claude Bernard
+
+Higher animals have complex systems that respond to stimuli to perform their essential body functions. When the animal receives the signals from the sensory organs, they produce a local reflex action and/or react in the central nervous system. Weak signals produce no responses, but strong stimuli change the physiological or behavioral status of the animal.  
 
 ```{r ext-int-env, fig.cap="External and internal environment", echo = FALSE, out.width = "60%", fig.align='center'}
 knitr::include_graphics("figures/animal-env.png")
 ```
 
-## Internal environment
-> "The living body, though it has need of the surrounding environment, is nevertheless relatively independent of it." --- Claude Bernard
-
-Higher animals have complex organ systems that respond to stimuli to perform their essential body functions. When the animal receives the signals from the sensory organs, they produce a local reflex action and/or react in the central nervous system. Weak signals produce no responses, but strong stimuli change the physiological or behavioral status of the animal.  
 
 ### Shelford's law of tolerance  
 > "Each and every species is able to exist and reproduce successfully only within a definite range of environmental conditions." --- Ronald Good
