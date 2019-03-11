@@ -156,8 +156,9 @@ Cattle’s core temperature peaks 2 hours after peak environmental temperature. 
 
 3. **Increasing the air flow** can help cattle cope with extreme heat events. Wind speed has been shown to be associated with ability of cattle to regulate their heat load. 
 
-4. **Sprinklers** can be used to cool cattle during times of stress. Sprinklers increase evaporative cooling and can reduce ground temperature. Sprinklers should thoroughly wet the animal and not just mist the air in order to cool the animal. Sprinklers should be placed away from feed bunks and waterers. Cattle need to be introduced to sprinklers prior to extreme heat. 
-### Swine  
+4. **Sprinklers** can be used to cool cattle during times of stress. Sprinklers increase evaporative cooling and can reduce ground temperature. Sprinklers should thoroughly wet the animal and not just mist the air in order to cool the animal. Sprinklers should be placed away from feed bunks and waterers. Cattle need to be introduced to sprinklers prior to extreme heat.    
+
+### Swine   
 
 Most animals can transfer internal heat to the outside of the body by sweating and panting. These are the two most important tools for the maintenance of body temperature and form their inbuilt evaporative cooling system. However, pigs do not sweat and have relatively small lungs. Due to these physiological limitations and their relatively thick subcutaneous fat, pigs are prone to heat stress. Today’s modern pig genotypes produce considerably more heat than their predecessors (new genetic lines of pigs produce nearly 20% more heat than their counterparts in the early 1980s.). 
 
@@ -168,7 +169,7 @@ The two obvious symptoms observed when pigs are exposed to heat stress are incre
 - Increase ventilation and airflow and regularly check cooling system.
 - Reduce stocking density if possible.
 - Maintain drinking water temperature as low as possible (around 10°C is ideal but difficult to achieve).
-- Avoid feeding between 10.00am-4.00pm (the hottest period of the day).
+- Avoid feeding between 10:00 to 16:00 (the hottest period of the day).
 - Supplement electrolytes and antioxidants through the water supply.
 - Minimise excess non-essential amino acids and fibre (minimising intestinal fermentation and therefore heat production).
 - Increase availability of antioxidants through the diet such as vitamin E and betaine.
@@ -182,7 +183,7 @@ High temperature affects the physiological functions of poultry birds at any sta
 - Semi-open buildings can help the ventilation.
 - Maintain drinking water temperature as low as possible.
 - A shiny surface reflects solar radiation more than a dark or rusty roof.
-- Fat addition and excess protein in feed.
+- Fat addition and excess essential amino acids in feed.
 - Supplement of minerals (Fe, Zn, Se and Cr) and vitamins (vitamin A, C and E).
 - Genetic selection strategies.
 
