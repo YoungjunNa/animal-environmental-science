@@ -49,8 +49,10 @@ knitr::include_graphics("figures/flog.jpeg")
 
 Homeotherms can maintain body temperature independently from ambient temperatures by regulating the metabolic process. They preserve their body temperature by muscle contraction and brown adipose tissue is catabolized for heat production [@grigg2004evolution]. In hot environments, they use evaporative cooling (sweating or panting) for maintaining their body temperature. Most of the domestic animals are homeotherm.
 
-In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
+```{r e-system, fig.cap="Overview of feed energy flow through the animal body", echo = FALSE, out.width = "100%", fig.align='center'}
 
+knitr::include_graphics("figures/energy-system.png")
+```
 
 ```{r kimetal, fig.cap="Infrared cameras image that cows generating the heats. @kim2018image developed the algorithms for tracking the cows using IR camera video.", echo = FALSE, out.width = "100%", fig.align='center'}
 
@@ -60,6 +62,9 @@ if (knitr:::is_latex_output()) {
   knitr::include_graphics("figures/kimetal.gif")
 }
 ```
+
+In some homeoterms (bears, hedgehog, marmot, and so on) and poikilotherms (frogs, turtles, snake, and so on), they can enter the *hibernation* in the cold season: the body temperature is dropped, and the metabolic rate is depressed. Hibernating bears can recycle their body proteins and urine to avoid muscle loss.
+
 
 ### Heterotherm
 

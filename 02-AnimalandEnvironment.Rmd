@@ -18,7 +18,43 @@ tibble::tribble(
   knitr::kable(caption = "Components of habitat (physical and biotic)", booktabs = TRUE)
 ```
 
-Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components. Because it's a very huge field, this book can't cover every topic of both wildlife and domesticated animal. Thus, from now on, we will deal with the topic for the domesticated animal.
+Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components.
+
+### Biome
+A biome is a community of plants and animals that have common characteristics for the environment they exist in (Figure \@ref(fig:biomes)). They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate. 
+
+The principal biome-types are:
+
+1. Tundra 
+2. Taiga 
+3. Deciduous forest
+4. Grasslands
+5. Desert
+6. High plateaus
+7. Tropical forest
+8. Minor terrestrial biomes
+
+```{r biomes, fig.cap="Mapping terrestrial biomes around the world", echo = FALSE, out.width = "100%", fig.align='center'}
+knitr::include_graphics("figures/biomes.png")
+```
+
+Holdridge (1947; 1967) classified climates based on the biological effects of temperature and rainfall on vegetation under the assumption that these two abiotic factors are the largest determinants of the types of vegetation found in a habitat (Figure \@ref(fig:holdridge)).
+
+The three axes of the barycentric subdivisions are:
+
+1. Precipitation (annual, logarithmic)
+2. Biotemperature (mean annual, logarithmic)
+3. Potential evapotranspiration ratio (PET) to mean total annual precipitation.  
+  
+Further indicators incorporated into the system are:
+
+1. Humidity provinces
+2. Latitudinal regions
+3. Altitudinal belts
+
+```{r holdridge, fig.cap="Holdridge life zone classification scheme.", echo = FALSE, out.width = "100%", fig.align='center'}
+knitr::include_graphics("figures/lifezones.png")
+```
 
 ## Internal environment
 > "The living body, though it has need of the surrounding environment, is nevertheless relatively independent of it." --- Claude Bernard
