@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+author: "Youngjun Na"
+date: '2019 3 12 '
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+- All living creatures constantly interact with the environment. 
+- To understanding individual animals, we have to understand the relationship they have with their environment. 
+- Also, animals affect the environment. 
+- From birth to death, an animal generates carbon dioxide, methane, feces, and urine. 
+- The excretes from the animal are built with molecules such as carbon, nitrogen, sulfur, and phosphorus, and are recycled within and between ecosystems. 
+
+## 
+```{r snow-dog, fig.cap="Alaskan Malamute has the heat-conserving features. To retain heat you want the least body surface area compared to body volume.", echo = FALSE, out.width = "100%", fig.align='center'}
+knitr::include_graphics("figures/polar.jpeg")
+```
