@@ -210,3 +210,5 @@ Signs of heat stroke are 1) increasing the rectal temperature, 2) vigorous panti
 knitr::include_graphics("figures/pug.jpeg")
 ```
 
+## Climate change
+
