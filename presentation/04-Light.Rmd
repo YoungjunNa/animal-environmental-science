@@ -18,11 +18,46 @@ knitr::include_graphics("figures/sunlight.jpg")
 - **The main source of light on th earth is the sun.** 
 - Sunlight provides the energy that green plants use to create sugars mostly in the form of starches, which release energy into the living things that digest them. 
 - This process of photosynthesis provides virtually all the energy used by living things. 
+
+##
+```{r sun-energy, fig.cap="Energy Pyramid", echo = FALSE, out.width = "90%", fig.align='center'}
+knitr::include_graphics("extra/sun-energy.jpg")
+```
+
+
+## 빛의 의미
+- 일상적인 의미에서의 빛 = 가시광선
+- 물리적인 의미에서의 빛 = 전자기파
+
+##
+```{r mirror, fig.cap="He found a new friend!", echo = FALSE, out.width = "60%", fig.align='center'}
+knitr::include_graphics("extra/mirror.gif")
+```
+
+
+## 빛은 물질일까?
+- 거울 속의 나는 내가 아니라 나의 빛
+- **빛 = 에너지를 실어 나르는 파동**
+
+##
+```{r Light_dispersion_conceptual_waves, fig.cap="A triangular prism dispersing a beam of white light.", echo = FALSE, out.width = "80%", fig.align='center'}
+knitr::include_graphics("extra/Light_dispersion_conceptual_waves.gif")
+```
+
+
+##
+```{r sptr, fig.cap="A diagram of the electromagnetic spectrum.", echo = FALSE, out.width = "100%", fig.align='center'}
+knitr::include_graphics("extra/sptrm.png")
+```
+
+## Bioluminescence
 - Some species of animals generate their own light, a process called bioluminescence. 
 - Fireflies use light to locate mates, and vampire squids use it to hide themselves from prey.
 
-## 
+##
+<iframe width="420" height="240" src="https://www.youtube.com/embed/k72jGJTC_3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 
 <iframe width="420" height="240" src="https://www.youtube.com/embed/X8oWnbcLI40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Daylight
@@ -31,6 +66,12 @@ knitr::include_graphics("figures/sunlight.jpg")
 - **Daylight happens as the earth rotates, and either side on which the sun shines is considered daylight.** 
 - Illuminance is a measure of how much luminous flux is spread over a given area. 
 - **The lux (symbol: lx) is the SI derived unit of illuminance.**
+
+##
+
+```{r lux-meter, fig.cap="Digital lux meter", echo = FALSE, out.width = "50%", fig.align='center'}
+knitr::include_graphics("extra/lux-meter.jpg")
+```
 
 
 ## 
@@ -54,6 +95,11 @@ tibble::tribble(
 - A number of biological and behavioural changes are dependent on the daylength. 
 - Together with temperature changes, photoperiod provokes changes in the color of fur and feathers, migration, entry into hibernation, sexual behaviour, and even the resizing of sexual organs.
 
+##
+```{r size, fig.cap="Male seasonal breeders resize their sexual organs.", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("extra/penis-size.jpeg")
+```
+
 ## 
 - In animals, the regular activities of migration, reproduction, and the changing of coats or plumage can be induced out of season by artificially altering daylight. 
 - Long periods of light followed by short periods will induce mating behaviour in species that normally breed in autumn (e.g. goats and sheep), while spring breeders (e.g. mink) will start the reproductive process when daylight is increased. 
@@ -72,6 +118,7 @@ knitr::include_graphics("figures/sheep.jpeg")
 - Related sexual interest and behaviors are expressed and accepted only during this period. 
 - Female seasonal breeders will have one or more estrus cycles only when she is "in season" or fertile and receptive to mating. 
 - Male seasonal breeders may exhibit changes in testosterone levels, testes weight, and fertility depending on the time of year.
+
 
 ## 
 - The hypothalamus is considered to be the central control for reproduction due to its role in hormone regulation. 
@@ -120,8 +167,32 @@ tibble::tribble(
 
 ## Layers
 - Layer hens require a minimum amount of light intensity for optimal egg production, usually 5 to 10 lux. 
-- They also require a full day length period. 
 - Both estrogen and progesterone are required to form eggs, and a short daylength will not stimulate the secretion of these hormones. 
+
+##
+```{r light-program-layers, fig.cap="Standar lighting program in layers", echo = FALSE, out.width = "85%", fig.align='center'}
+knitr::include_graphics("extra/light-program-layers.png")
+```
+
+##
+```{r crr, fig.cap="눈에 띄는 색 3가지를 고르고 순서를 기억해주세요.", echo = FALSE, out.width = "85%", fig.align='center'}
+knitr::include_graphics("extra/CRR.png")
+```
+
+##
+```{r crr1, fig.cap="개인의 본질", echo = FALSE, out.width = "75%", fig.align='center'}
+knitr::include_graphics("extra/CRR1.png")
+```
+
+##
+```{r crr2, fig.cap="현재 처해있는 상황", echo = FALSE, out.width = "95%", fig.align='center'}
+knitr::include_graphics("extra/CRR2.png")
+```
+
+##
+```{r crr3, fig.cap="내면적 비전", echo = FALSE, out.width = "95%", fig.align='center'}
+knitr::include_graphics("extra/CRR3.png")
+```
 
 ## Color of light
 - **The color of light has been shown to affect the size and weight of the eggs.**  

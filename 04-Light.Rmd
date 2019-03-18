@@ -70,7 +70,7 @@ tibble::tribble(
 ```
 
 #### Layers
-Layer hens require a minimum amount of light intensity for optimal egg production, usually 5 to 10 lux. They also require a full day length period. Both estrogen and progesterone are required to form eggs, and a short daylength will not stimulate the secretion of these hormones. 
+Layer hens require a minimum amount of light intensity for optimal egg production, usually 5 to 10 lux. Both estrogen and progesterone are required to form eggs, and a short daylength will not stimulate the secretion of these hormones. 
 
 **The color of light has been shown to affect the size and weight of the eggs.**  Blue-green light stimulates growth in chickens, whereas orange-red light stimulates reproduction. Red light, in the 630nm wavelength range, was found to be superior to any other wavelength in increasing egg production.  However, blue light has a calming effect on birds whereas red may enhance feather pecking and cannibalism.
 
@@ -80,8 +80,6 @@ Layer hens require a minimum amount of light intensity for optimal egg productio
 ### Puberty
 ### Reproduction
 ### Behavior
-
-
 
 ## Appendix
 
