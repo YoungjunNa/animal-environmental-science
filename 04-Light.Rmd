@@ -1,10 +1,13 @@
 # Photoperiodism  
 
-The main source of light on th earth is the sun. Sunlight provides the energy that green plants use to create sugars mostly in the form of starches, which release energy into the living things that digest them. This process of photosynthesis provides virtually all the energy used by living things. Some species of animals generate their own light, a process called bioluminescence. For example, fireflies use light to locate mates, and vampire squids use it to hide themselves from prey.
-
 ```{r sunlight, fig.cap="Sunlight", echo = FALSE, out.width = "100%", fig.align='center'}
 knitr::include_graphics("figures/sunlight.jpg")
 ```
+
+**2019-03-18 강의자료 다운로드**
+
+
+The main source of light on th earth is the sun. Sunlight provides the energy that green plants use to create sugars mostly in the form of starches, which release energy into the living things that digest them. This process of photosynthesis provides virtually all the energy used by living things. Some species of animals generate their own light, a process called bioluminescence. For example, fireflies use light to locate mates, and vampire squids use it to hide themselves from prey.
 
 Daylight is the combination of all direct and indirect sunlight during the daytime. Daytime is the period of time each day when daylight occurs. **Daylight happens as the earth rotates, and either side on which the sun shines is considered daylight.** Illuminance is a measure of how much luminous flux is spread over a given area. The lux (symbol: lx) is the SI derived unit of illuminance.
 
@@ -31,21 +34,50 @@ In animals, the regular activities of migration, reproduction, and the changing 
 knitr::include_graphics("figures/sheep.jpeg")
 ```
 
-Seasonal breeders are animal species that successfully mate only during certain times of the year. These times of year allow for the optimization of survival of young due to factors such as ambient temperature, food and water availability, and changes in the predation behaviors of other species. Related sexual interest and behaviors are expressed and accepted only during this period. Female seasonal breeders will have one or more estrus cycles only when she is "in season" or fertile and receptive to mating. Male seasonal breeders may exhibit changes in testosterone levels, testes weight, and fertility depending on the time of year.
+Seasonal breeders are animal species that successfully mate only during certain times of the year. **These times of year allow for the optimization of survival of young** due to factors such as ambient temperature, food and water availability, and changes in the predation behaviors of other species. Related sexual interest and behaviors are expressed and accepted only during this period. Female seasonal breeders will have one or more estrus cycles only when she is "in season" or fertile and receptive to mating. Male seasonal breeders may exhibit changes in testosterone levels, testes weight, and fertility depending on the time of year.
 
 The hypothalamus is considered to be the central control for reproduction due to its role in hormone regulation. This is achieved specifically through changes in the production of the hormone GnRH. GnRH in turn transits to the pituitary where it promotes the secretion of the gonadotropins LH and FSH, both pituitary hormones critical for reproductive function and behavior, into the bloodstream.
 
-Seasonal breeding readiness is strongly regulated by length of day (photoperiod) and thus season. Photoperiod likely affects the seasonal breeder through changes in melatonin secretion by the pineal gland that ultimately alter GnRH release by the hypothalamus. Seasonal breeders can be divided into groups based on fertility period. "Long day" breeders (e.g. Horse, hamsters, and mink) cycle when days get longer (spring) and are in anestrus in fall and winter. "Short day" breeders (e.g. Sheep and goats) cycle when the length of daylight shortens (fall) and are in anestrus in spring and summer. 
+```{r seaonal-breed, fig.cap="Timing of annual reproductive cycle of exemplary seasonal breeders. PP, photoperiod. ", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("figures/seasonal-breed.png")
+```
+
+Seasonal breeding readiness is strongly regulated by length of day (photoperiod) and thus season. Photoperiod likely affects the seasonal breeder through changes in melatonin secretion by the pineal gland that ultimately alter GnRH release by the hypothalamus. Seasonal breeders can be divided into groups based on fertility period. **"Long day"** breeders (horse, hamsters, and mink) cycle when days get longer (spring) and are in anestrus in fall and winter. **"Short day"** breeders (sheep, goat, and elk) cycle when the length of daylight shortens (fall) and are in anestrus in spring and summer. 
 
 ## Effects on productivity
-### Wool
+### Light control in poultry production
+Lighting is a key environmental factor in poultry production that is known to affect performance and behavior. The photoperiod is the duration of the light period and scotoperiod is the duration of the dark period perceived in a light:dark cycle, which is typically 24 h in length. 
 
+#### Broiler
+Modern broiler stocks have been genetically selected for rapid growth, heavy BW, feed efficiency, and high breast meat yield. The inactive nature of fully-fed broilers in combination with early attainment of heavy BW has contributed to developmental leg abnormalities. Lighting programs have been developed based on their effectiveness in the industry to optimize performance. The performance parameters of broilers in which producers are most interested are BW, feed efficiency, and livability. **Continuous lighting (24L:0D) leads to greater BW for meat-type chickens compared to those under 8L:16D or 12L:12D.** Generally, longer dark period leads to greater feed efficiency. 
+
+```{r lightening, tab.cap="An example of broiler lighting program.", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
+library(magrittr)
+tibble::tribble(
+  ~"Days", ~"Light (h)", ~"Dark (h)", ~"Intensity (lux)",
+  "0", 23, 1, 20,
+  "1-2", 20, 4, 20,
+  "3-4", 18, 6, 20,
+  "5-14", 6, 18, 5,
+  "15-21", 10, 14, 5,
+  "22-28", 14, 10, 5,
+  "29-35", 18, 6, 5,
+  "36-42", 24, 0, 5
+) %>% knitr::kable(caption = "An example of broiler lighting program.", booktabs = TRUE)
+```
+
+#### Layers
+Layer hens require a minimum amount of light intensity for optimal egg production, usually 5 to 10 lux. They also require a full day length period. Both estrogen and progesterone are required to form eggs, and a short daylength will not stimulate the secretion of these hormones. 
+
+**The color of light has been shown to affect the size and weight of the eggs.**  Blue-green light stimulates growth in chickens, whereas orange-red light stimulates reproduction. Red light, in the 630nm wavelength range, was found to be superior to any other wavelength in increasing egg production.  However, blue light has a calming effect on birds whereas red may enhance feather pecking and cannibalism.
+
+### Wool
 ### Feathers
 ### Antlers
 ### Puberty
 ### Reproduction
 ### Behavior
-### Light control in poultry production
+
 
 
 ## Appendix
