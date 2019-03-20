@@ -57,6 +57,13 @@ A great number (roughly 30) of different vocalizations have been described for a
 
 Noise is described as unwanted sound, either chronic or intermittent, and can be described in terms including its frequency, intensity, frequency spectrum, and shape of sound pressure through time (Burn, 2008). Decibel (dB) is the unit for measuring the intensity of sound. 
 
+Noise in farm animal environments is a detrimental factor to animal
+health. Noise directly affects reproductive physiology or energy consumption. Unexpected high intensity noise (above 110 dB), such as low altitude jet aircraft overflights at milking time could reduce the overall milk yield. However, a majority of the studies reviewed suggests that there is little or no effect of aircraft noise on cattle. Beyer (1983) found that helicopters caused worse reaction than other low-aircraft overflights.
+
+Sounds produced by humans might also be stressful for farm animals. Loud cry causes stress responses in farm animals (Hemsworth et al., 2003). Shouting on dairy cows appears to be very aversive (Pajor et al., 2000). Noise made by humans shouting and slamming of metal gates increases heart rate and activity in cattle.
+
+Although the majority of the literature suggests that farming animals and wildlife species exhibit adaptation after repeated exposure to noise, careful planning should be made before construction of the animal building, in order to avoid stressful environmental sounds both for the animal and personnel.
+
 ## Music and animal welfare
 Humans derive both psychological and physiological benefits from listening to music, including reduced anxiety, pain relief and decreases in measures of stress such as blood pressure and heart rate. Some nonhuman species may perceive music similarly to humans, but because of species differences in sensitivity to sound frequencies, music may be perceived differently by different species. For example, most studies examining the physiological effects of music to date used rats, but most of the common laboratory rat's social communication occurs in the ultrasonic range. 
 
