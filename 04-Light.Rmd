@@ -47,6 +47,22 @@ knitr::include_graphics("figures/seasonal-breed.png")
 
 Seasonal breeding readiness is strongly regulated by length of day (photoperiod) and thus season. Photoperiod likely affects the seasonal breeder through changes in melatonin secretion by the pineal gland that ultimately alter GnRH release by the hypothalamus. Seasonal breeders can be divided into groups based on fertility period. **"Long day"** breeders (horse, hamsters, and mink) cycle when days get longer (spring) and are in anestrus in fall and winter. **"Short day"** breeders (sheep, goat, and elk) cycle when the length of daylight shortens (fall) and are in anestrus in spring and summer. 
 
+### Antlers
+```{r antler, fig.cap="Antlers are shed and regrown each year.", echo = FALSE, out.width = "60%", fig.align='center'}
+knitr::include_graphics("figures/antler.jpeg")
+```
+
+Antlers are extensions of an animal's skull found in members of the deer family. Antlers are shed and regrown each year (grown every spring and shed every winter) and function primarily as objects of sexual attraction and as weapons in fights between males.
+
+**The annual antler cycle is ultimately controlled by day length or photoperiod.** Growth of antlers typically begins in April in response to increasing day length. In the spring, testicular and pituitary hormones get the growing process started. Antlers are covered with velvet (such as in the antlers of the deer in the photo above) which carries blood and nutrients to the antlers during development. By late summer, as day length decreases, testosterone levels begin to increase, the form is filled, and the antler begins to harden. Hard antlers remain on the deer through the peak of breeding until late fall or early winter. In winter, when the growth hormones quit pumping, the pedicel loses calcium which weakens the connection between the pedicel and the antler, and off come the antlers.
+
+```{r antler-stage, fig.cap="Stages of antler growth. A) one day after antler shed, B) 15 days after shed, scab still attached, C) 30 days after shed, scab is shed (A, B, C same animal), D) about three months after shed by different animal, E) about five months after shed antler growth is completed, with one additional month used to complete hardening and drying of velvet (D and E same animal), and F) hardened antler with shreds of dried velvet on a third animal. (Photo Credits A-E, Steve Demarais, F, Dave Hewitt)", echo = FALSE, out.width = "100%", fig.align='center'}
+knitr::include_graphics("figures/antler-stages.jpg")
+```
+
+Horns, on the other hand, are found on members of the *Bovidae* family, which includes species as diverse as cows, sheep and goats to water buffalo, antelopes, and gazelles. Unlike antlers, horns are never branched, are never shed, and in many species horns never stop growing throughout an animal's life. 
+
+
 ## Effects on productivity
 ### Light control in poultry production
 Lighting is a key environmental factor in poultry production that is known to affect performance and behavior. The photoperiod is the duration of the light period and scotoperiod is the duration of the dark period perceived in a light:dark cycle, which is typically 24 h in length. 
@@ -73,23 +89,6 @@ tibble::tribble(
 Layer hens require a minimum amount of light intensity for optimal egg production, usually 5 to 10 lux. Both estrogen and progesterone are required to form eggs, and a short daylength will not stimulate the secretion of these hormones. 
 
 **The color of light has been shown to affect the size and weight of the eggs.**  Blue-green light stimulates growth in chickens, whereas orange-red light stimulates reproduction. Red light, in the 630nm wavelength range, was found to be superior to any other wavelength in increasing egg production.  However, blue light has a calming effect on birds whereas red may enhance feather pecking and cannibalism.
-
-### Antlers
-```{r antler, fig.cap="Antlers are shed and regrown each year.", echo = FALSE, out.width = "60%", fig.align='center'}
-knitr::include_graphics("figures/antler.jpeg")
-```
-
-Antlers are extensions of an animal's skull found in members of the deer family. Antlers are shed and regrown each year (grown every spring and shed every winter) and function primarily as objects of sexual attraction and as weapons in fights between males.
-
-**The annual antler cycle is ultimately controlled by day length or photoperiod.** Growth of antlers typically begins in April in response to increasing day length. In the spring, testicular and pituitary hormones get the growing process started. Antlers are covered with velvet (such as in the antlers of the deer in the photo above) which carries blood and nutrients to the antlers during development. By late summer, as day length decreases, testosterone levels begin to increase, the form is filled, and the antler begins to harden. Hard antlers remain on the deer through the peak of breeding until late fall or early winter. In winter, when the growth hormones quit pumping, the pedicel loses calcium which weakens the connection between the pedicel and the antler, and off come the antlers.
-
-```{r antler-stage, fig.cap="Stages of antler growth. A) one day after antler shed, B) 15 days after shed, scab still attached, C) 30 days after shed, scab is shed (A, B, C same animal), D) about three months after shed by different animal, E) about five months after shed antler growth is completed, with one additional month used to complete hardening and drying of velvet (D and E same animal), and F) hardened antler with shreds of dried velvet on a third animal. (Photo Credits A-E, Steve Demarais, F, Dave Hewitt)", echo = FALSE, out.width = "100%", fig.align='center'}
-knitr::include_graphics("figures/antler-stages.jpg")
-```
-
-Horns, on the other hand, are found on members of the *Bovidae* family, which includes species as diverse as cows, sheep and goats to water buffalo, antelopes, and gazelles. Unlike antlers, horns are never branched, are never shed, and in many species horns never stop growing throughout an animal's life. 
-
-### Wool
 
 
 ## Appendix

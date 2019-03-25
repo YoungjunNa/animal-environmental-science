@@ -17,6 +17,35 @@ This website is (and will always be) __free to use__, and is licensed under the 
 
 ![](figures/monkey.jpeg)  
 (Snow Monkey Niseko, Kutchan-chō, Japan)
+
+## Report & presentation
+
+**조 구성**  
+- 5인 1조
+
+**주제**  
+1. 공통: 축산의 가치는 무엇일까? (5분)—식량안보/단백질공급에 대한 내용은 최소화  
+2. **축산이 국민들에게 사랑받을 수 있는 방법**이 무엇일까?: 구체적인 대안을 고민/발표(15분)  
+3. 어떻게 해야 **지속가능한 축산이 될 수 있을까?** (15분) or **통일에 대비한/통일 후 축산**에 대해서  
+
+**역할**  
+1. 조장: 모든 문제를 조율하고 팀을 잘 이끄는 역할; 공통주제 발표(5분)  
+2. 발표자 1: 주제1에 대한 발표  
+3. 발표자 2: 주제2에 대한 발표  
+4. 기록자 1: 주제 1 내용을 글로 잘 설명 및 제출  
+5. 기록자 2: 주제 2 내용을 글로 잘 설명 및 제출  
+- 발표 및 기록자료 제출: MS word; 발표 당일 09:00까지 email로
+
+**채점기준**  
+- 주요 기준: 주제에 대해 **얼마나 고민을 많이 한 흔적이 보이는가?**  
+- 4점: 청중  
+- 4점: 강의자  
+- Total Score: 8/8  
+- 1번째 발표한 조는 심사위원 점수 4점 획득
+- 2번째 발표한 조는 심사위원 점수 3~4점 획득
+
+
+
   
 ```{r include=FALSE}
 # automatically create a bib database for R packages

@@ -136,6 +136,73 @@ knitr::include_graphics("figures/seasonal-breed.png")
 - Seasonal breeders can be divided into groups based on fertility period. **"Long day"** breeders (horse, hamsters, and mink) cycle when days get longer (spring) and are in anestrus in fall and winter. 
 - **"Short day"** breeders (sheep, goat, and elk) cycle when the length of daylight shortens (fall) and are in anestrus in spring and summer. 
 
+# Antlers
+##
+```{r antler, fig.cap="Antlers are shed and regrown each year.", echo = FALSE, out.width = "40%", fig.align='center'}
+knitr::include_graphics("figures/antler.jpeg")
+```
+
+##
+- Antlers are extensions of an animal's skull found in members of the deer family. 
+- **Antlers are shed and regrown each year** (grown every spring and shed every winter) and function primarily as objects of sexual attraction and as weapons in fights between males.
+
+
+##
+<iframe width="640" height="550" src="https://www.youtube.com/embed/NgcjNokwaf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##
+- **The annual antler cycle is ultimately controlled by day length or photoperiod.** 
+- Growth of antlers typically begins in April in response to increasing day length. 
+- In the spring, testicular and pituitary hormones get the growing process started. 
+- Antlers are covered with velvet (such as in the antlers of the deer in the photo above) which carries blood and nutrients to the antlers during development. 
+
+##
+- By late summer, as day length decreases, testosterone levels begin to increase, the form is filled, and the antler begins to harden. 
+- Hard antlers remain on the deer through the peak of breeding until late fall or early winter. 
+- In winter, when the growth hormones quit pumping, the pedicel loses calcium which weakens the connection between the pedicel and the antler, and off come the antlers.
+
+##
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pKCgWwWk1KY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##
+```{r antler-stage, fig.cap="Stages of antler growth. (Photo Credits A-E, Steve Demarais, F, Dave Hewitt)", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("figures/antler-stages.jpg")
+```
+
+
+##
+```{r antler1, fig.cap="", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("extra/antler1.jpg")
+```
+
+##
+```{r antler2, fig.cap="", echo = FALSE, out.width = "50%", fig.align='center'}
+knitr::include_graphics("extra/antler2.jpg")
+```
+
+##
+```{r antler3, fig.cap="", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("extra/antler3.jpg")
+```
+
+##
+```{r antler4, fig.cap="", echo = FALSE, out.width = "70%", fig.align='center'}
+knitr::include_graphics("extra/antler4.jpg")
+```
+
+
+
+## Horns
+- Horns are found on members of the *Bovidae* family
+- *Bovidae* family: Such as cows, sheep and goats to water buffalo, antelopes, and gazelles. 
+- Unlike antlers, horns are never branched, are never shed, and in many species horns never stop growing throughout an animal's life. 
+
+##
+```{r horns, fig.cap="Horns are found on members of the *Bovidae* family.", echo = FALSE, out.width = "40%", fig.align='center'}
+knitr::include_graphics("extra/horns.jpeg")
+```
+
+
 # Effects on productivity
 # Light control in poultry production
 ## Light control in poultry production
