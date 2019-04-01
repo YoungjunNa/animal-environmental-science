@@ -4,6 +4,8 @@
 knitr::include_graphics("figures/pig-straw.jpeg")
 ```
 
+**[강의자료 보기: Air quality](https://youngjunna.github.io/aes/06-AirQuality)**
+
 **Air quality is the degree of pollution of air.** The air quality can be determined by measuring the concentration of pollutants in the air. Air quality has a direct influence on health, welfare and production performance of livestock. The high concentrations of noxious gases, dust, and airborne microorganisms can reduce the production efficiency and the general welfare of farm animals. Long term exposure to particulates in livestock buildings might also affect the respiratory health of farm workers. Dust in animal buildings contains many biologically active substances such as bacteria, fungi, and endotoxins that are suspected to be hazardous to human health.
 
 Airborne emissions include ammonia, methane, nitrous oxide, particulates like dust and microorganisms. In addition, other potentially harmful substances such as heavy metals, antibiotic residues and components of disinfectants might be also emitted from livestock building that are potentially damaging to ecosystems.
