@@ -44,7 +44,8 @@ This website is (and will always be) __free to use__, and is licensed under the 
 - 1번째 발표한 조는 심사위원 점수 4점 획득
 - 2번째 발표한 조는 심사위원 점수 3~4점 획득
 
-
+**평가 링크**  
+- 1조: https://forms.gle/gUXA6jC8PyBWBcuA6
 
   
 ```{r include=FALSE}
