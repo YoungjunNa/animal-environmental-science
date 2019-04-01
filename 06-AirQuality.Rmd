@@ -23,6 +23,13 @@ Generally air quality is affected by weather, livestock facilities and managemen
 ## Pollutants
 
 ### Ammonia  
+
+Ammonia (NH3) is an important pollutant gas that accelerates fine particulate formation in the atmosphere and plays a crucial role in the acidification and the eutrophication of ecosystems (Krupa, 2003). Livestock wastes account for 39% of global emissions (Fig. \@ref(fig:ammonia-manure)). Among them, pig production is globally responsible for about 15% of NH3 emissions associated to livestock, with a large variation by country (Olivier et al., 1998). 
+
+```{r ammonia-manure, fig.cap="Repartition of sources of global ammonia emissions (Galloway et al., 2004).", echo = FALSE,  out.width="50%", fig.align='center'}
+knitr::include_graphics("figures/ammonia-manure.jpg")
+```
+
 Ammonia is emitted from manure in livestock buildings, manure storage facilities and during manure application to soils. Ammonia in livestock facilities results primarily from the breakdown of urea (present in urine) by the enzyme urease (excreted in feces). Typical ammonia levels in well-ventilated buildings are 10 to 20 ppm. Ammonia can be easily removed from livestock buildings by proper ventilation because it is lighter than air.
 
 ```{r ammonia, tab.cap="Summary of effects in humans following acute ammonia exposure.", tidy=FALSE, echo=FALSE, message=FALSE, fig.align='center'}
@@ -39,23 +46,57 @@ tibble::tribble(
 ) %>% knitr::kable(caption = "Summary of effects in humans following acute ammonia exposure.", booktabs = TRUE)
 ```
 
+#### Nitrogen transformations and ammonia production in manure
+Nitrogen transformations occurring in livestock manure include mineralization of organic N into NH3, N assimilation into organic matter, nitrification into nitrite (NO2−) and then into nitrate (NO3−), and finally denitrification into dinitrogen (N2) with nitrous oxide (N2O) as a potential by-product (Fig. \@ref(fig:ammonia-trans)).
+
+```{r ammonia-trans, fig.cap="Nitrogen (N) transformation in livestock manure and releases to the atmosphere (NH3, ammonia; NH4+, ammonium; NO3−, nitrate; N2O, nitrous oxide; N2, dinitrogen; g, gaseous form; l, liquid form) (adapted from Philippe et al., 2011).", echo = FALSE,  out.width="50%", fig.align='center'}
+knitr::include_graphics("figures/ammonia-trans.jpg")
+```
+
 #### Suppression methods
 1. Decreasing of the length of the time manure remained.
 2. Keeping buildings and the animals clean and dry.
 3. Separation manure from urine.
 4. Using acidifying agents to suppress ammonia emissions from manure.
-5. Manipulating dietary crude protein types and levels.
-6. Filtration.  
-7. Landscaping: Trees, shrubs and other vegetative barriers planted around livestock buildings have the potential of reducing ammonia emissions.
+5. Filtration.  
+6. Landscaping: Trees, shrubs and other vegetative barriers planted around livestock buildings have the potential of reducing ammonia emissions.
+
+#### Dietary strategies
+1. Reduced crude protein (CP) diets containing synthetic amino acids have been shown to reduce N excretion, which leads to reduce NH3 emissions.
+2. Reducing NH3 emissions from the slurry can also be achieved by the addition of fibrous feedstuffs in the diet. 
+3. Feed additives: Non-starch polysaccharides enzymes, yucca extract, zeolites, probiotics, and so on.
 
 ### Hydrogen sulphide
-Hydrogen sulfide is a toxic gas and has potential to cause health problems if the concentration becomes too high. Hydrogen sulphide is heavier than air, soluble in water, and can accumulate in the livestock buildings. It has a rotten-egg odour and it can be easily detected at low concentrations.
+Hydrogen sulfide (H2S) is a toxic gas and has potential to cause health problems if the concentration becomes too high. Hydrogen sulphide is heavier than air, soluble in water, and can accumulate in the livestock buildings. It has a rotten-egg odour and it can be easily detected at low concentrations.
 
 #### Suppression methods
-- Modifying swine diets to balance rations reduce hydrogen sulphide emissions.
+- Modifying diets to balance rations reduce hydrogen sulphide emissions.
 - Frequent removal of manure from static pits significantly reduces hydrogen sulphide.
 - Physical, chemical and biological treatment of stored manure such as manure additives and oil sprinkling.
 - Biofiltration is an effective method for reducing the emissions of hydrogen sulphide.
 
 ### Particulate matters (Dust)
-The particulates matter (PM) originate from either the feed, bedding/ manure/litter, or the animal itself (Seedorf and Hartung, 2000). Particles are globally classified as coarse (>2.5 μm in diameter) and fine (<2.5 μm in diameter), with those between 0.50 and 5 μm considered especially damaging to the lungs (Hinds, 1982).
+Particulate Matter (PM) is an unusual air pollutant in that it is defined by its physical morphology rather than chemical identity. The most common classifications are PM10 (coarse PM), which includes particles smaller than 10 μm in aerodynamic diameter, and
+PM2.5 (fine or respirable PM), which includes particles smaller than 2.5 μm in diameter. 
+
+- **PM10**: inhalable particles, with diameters that are generally 10 micrometers and smaller
+- **PM2.5**: fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
+
+```{r pm-oecd, fig.cap="Population exposure to fine particulates (PM2.5).", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/pm-oecd.png")
+```
+
+**Dust from swine/pourtly barns originates from feed, bedding material, manure and the animals themselves.** Many of the respirable dust particles are odorous because of their fecal origin. The factors determining the amount of dust in confinement includes animal activity, temperature, relative humidity, and ventilation rate, stocking density and feeding methods.
+
+Dust is related to the odor. Removal of dust in animal production facilities can reduce the odour in the air by 65-75% (Hammond and Smith 1981; Hartung 1985.Hartung, 1986; Hoff et al., 1997). Filtering the dust from the exhaust air reduced VOC–odor emissions from swine buildings by up to 65%. 
+
+#### Factors affecting dust emissions 
+1. **Temperature**: There is the negative correlation between outside temperature and the dust concentration.
+2. **Relative humidity**: The humid air also increases the moister content of the dry manure or and settle dust, so that less dust become airborne.
+3. **Animal Activity**
+
+#### Suppression methods
+1. **Ventilation**: The major method of controlling dust and air contamination in enclosed livestock facilities is by mechanical ventilation. 
+2. **Air Misting**: The oil/water spraying is a promising technique for dust control in livestock buildings. 
+3. **Fibrous Filter**
+4. **Wet Collectors**: Wet scrubber using water to capture dust particle are very efficient in removing dust particles from air, however its use is not recommended in livestock building due to the needs for handling large amount of air in livestock buildings.
