@@ -1,7 +1,4 @@
 # Animal and environment {#chapter2}
-
-**[강의자료 보기](https://youngjunna.github.io/aes/02-AnimalandEnvironment)**
-
 ## External environment
 Animal never separates from the stimuli from outside. Basically, animals can find food, shelter, protection, and mates from the environment called *habitat*. The animal habitat includes both phisical (non-living) and biotic (livinig) components (Table \@ref(tab:habitat)). 
 

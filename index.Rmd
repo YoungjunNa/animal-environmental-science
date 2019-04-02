@@ -18,6 +18,15 @@ This website is (and will always be) __free to use__, and is licensed under the 
 ![](figures/monkey.jpeg)  
 (Snow Monkey Niseko, Kutchan-chō, Japan)
 
+## Presentation files  
+- 01 **[Animal and environment](https://youngjunna.github.io/aes/02-AnimalandEnvironment)**  
+- 02 **[Temperature](https://youngjunna.github.io/aes/03-Temperature)**  
+- 03 **[Genetics, nutrition, and environment](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/03%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8.pdf)**  
+- 03 **[Light](https://youngjunna.github.io/aes/04-Light)**  
+- 04 **[Human, animal, and environment](https://github.com/YoungjunNa/aes/raw/master/04-aes.pdf)**  
+- 04 **[Sound](https://youngjunna.github.io/aes/05-Sound)**  
+- 05 **[Air quality](https://youngjunna.github.io/aes/06-AirQuality)**  
+
 ## Report & presentation
 
 **조 구성**  
@@ -44,10 +53,7 @@ This website is (and will always be) __free to use__, and is licensed under the 
 - 1번째 발표한 조는 심사위원 점수 4점 획득
 - 2번째 발표한 조는 심사위원 점수 3~4점 획득
 
-**평가 링크**  
-- 1조: https://forms.gle/gUXA6jC8PyBWBcuA6
 
-  
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(

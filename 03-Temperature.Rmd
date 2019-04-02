@@ -1,7 +1,5 @@
 # Temperature  
 
-**[강의자료 보기](https://youngjunna.github.io/aes/03-Temperature)**
-
 Temperature is a quantity expressing of the amount of heat. Because a rate of every chemical reaction occurs in the animal's body is affected by the temperature, it is a very important factor to all animals. Like most chemical reactions, an enzyme-catalyzed reaction rate in the animal's body increases as the temperature is raised. However, extremely high or low temperature results in loss of activity or lose the structure for most enzymes (*denaturation*; Figure \@ref(fig:q10)). 
 
 ```{r q10, fig.cap="The effects of temperature on enzyme activity [@q10]. Top - increasing temperature increases the rate of reaction (Q10 coefficient). Middle - the fraction of folded and functional enzyme decreases above its denaturation temperature. Bottom - consequently, an enzyme's optimal rate of reaction is at an intermediate temperature.", echo = FALSE, out.width = "60%", fig.align='center'}
