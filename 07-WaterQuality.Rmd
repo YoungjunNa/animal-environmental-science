@@ -54,14 +54,57 @@ A variety of microbial pathogens can be transmitted to livestock from drinking w
 Water contaminants can be decreased considerably or even completely eliminated by a variety of treatment methods. Some methods are more effective than others, but for treating water for livestock consumption, economics are an important issue. 
 
 ### Activated carbon filters
+
+```{r carbon-filter, fig.cap="Activated carbon filters.", echo = FALSE,  out.width="100%", out.height="100%", fig.align='center'}
+knitr::include_graphics("figures/activated-carbon-filter.jpg")
+```
+
 This method is based on passing water through a filter containing activated carbon granules. Contaminants attach to the granules and are removed. Chlorine, some organic compounds associated with coloration, odour and offtaste of water, mercury, some pesticides and volatile organic compounds can be removed by this method. The filters must be inspected and replaced frequently. Poor filter maintenance will decrease effectiveness, and may result in bacterial growth on the filter, causing potential contamination of the water with pathogens. 
 
 ### Air stripping
+
 Air stripping is the transferring of volatile components of a liquid into an air stream. It is an environmental engineering technology used for the purification of groundwaters and wastewaters containing volatile compounds. Contaminants are transferred from water to air and vented off. This method may be effective in removing hydrogen sulphide, some odours and tastes, and some volatile organic chemicals.
+
+```{r Air-Stripper, fig.cap="Air-Stripper diagram (Monroe Environmental Corp., 2019).", echo = FALSE,  out.width="35%", fig.align='center'}
+knitr::include_graphics("figures/Air-Stripper.png")
+```
 
 ### Biological filters
 Biological filtration is a natural process that takes place in rivers, streams, and oceans. Bacteria eat certain compounds, like ammonia, which is broken down into byproducts that are not toxic.  This method is effective at removing iron, arsenic, and organics. A microbiological layer is used to filter and consume contaminants.
 
 ### Chlorination
-This is one of the most common methods in water treatment for pathogen reduction in drinking water for livestock. Chlorination is much more effective if it follows a filtration system to remove large particles that can house bacteria. In particular, this is an effective and widely used method to kill many kinds of microorganisms in water. 
+```{r swimming-pool, fig.cap="A swimming pool which treated chloride.", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/swimming-pool.jpeg")
+```
 
+This is one of the most common methods in water treatment for pathogen reduction in drinking water for livestock. Chlorination is much more effective if it follows a filtration system to remove large particles that can house bacteria. In particular, this is an effective and widely used method to kill many kinds of microorganisms in water. Chlorine content of the treated water should be monitored because the high concentrations of chlorine released to the animal water system may affect water intake and productivity.
+
+### Ozonation  
+This method of water treatment is based on application of ozone gas. Ozone is a very potent oxidizing agent, and destroys pathogenic microorganisms. It can reduce color, improves taste, odor, kills bacteria, viruses, oxidize iron, manganese, cyanide, phenol, benzene, chlorophenol, atrazine, nitrobenzene and other pollutants.  The equipment typically is quite expensive.  
+
+## Importance of clean water to mankind
+
+```{r global-water, fig.cap="Proportion of population using improved drinking water sources (WHO, 2015).", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/global_water_2015.png")
+```
+
+Safe and readily available water is important for public health, whether it is used for drinking, domestic use, food production or recreational purposes. Improved water supply and sanitation, and better management of water resources, can boost countries’ economic growth and can contribute greatly to poverty reduction.
+
+**Billions of people have gained access to water, but huge inequalities remain.** In 2015, 71% of the global population (5.2 billion people) used a safely managed drinking-water service – that is, one located on premises, available when needed, and free from contamination. 89% of the global population (6.5 billion people) used at least a basic service. A basic service is an improved drinking-water source within a round trip of 30 minutes to collect water. 844 million people lack even a basic drinking-water service, including 159 million people who are dependent on surface water. Globally, at least 2 billion people use a drinking water source contaminated with faeces.
+
+Contaminated water and poor sanitation are linked to transmission of diseases such as cholera, diarrhoea, dysentery, hepatitis A, typhoid, and polio. Inappropriately managed water and sanitation services expose individuals to preventable health risks. Some 842,000 people are estimated to die each year from diarrhoea as a result of unsafe drinking-water, sanitation, and hand hygiene. Yet diarrhoea is largely preventable, and the deaths of 361,000 children aged under 5 years could be avoided each year if these risk factors were addressed. 
+
+In most countries, the majority of people spend less than 30 minutes collecting water, or have a piped supply within their home. But in some regions, especially sub-Saharan Africa, many people spend more than 30 minutes – and some more than an hour – on each trip to collect water. This burden still falls mainly on women and girls.
+
+```{r water-girl, fig.cap="Who has primary responsibility for collecting water in rural areas? (WHO/Unicef joint monitoring program).", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/1512.jpg")
+```
+
+## Livestock and sustainable management of water
+Agriculture uses approximately 70% of the available freshwater supply, and roughly 30% of global agricultural water goes on livestock production (Ran et al., 2016), with one third of that supporting beef cattle (Mekonnen and Hoekstra, 2012). Besides water scarcity, one of the central water-related challenges facing the livestock sector is waste management and disposal given that feces and urine can be hazardous to the environment. 
+
+The water footprint has been used as an indicator of water consumption for both direct and indirect water usage at consumer and producer level. It aims to measure the total volume of freshwater used to produce the goods and services consumed or utilized by individuals, communities and businesses.
+
+```{r water-footprint, fig.cap="Water footprint values reported for selected food products (Mekonnen and Hoekstra, 2012).", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/water-footprint.png")
+```
