@@ -26,6 +26,8 @@ This website is (and will always be) __free to use__, and is licensed under the 
 - 04 **[Human, animal, and environment](https://github.com/YoungjunNa/aes/raw/master/04-aes.pdf)**  
 - 04 **[Sound](https://youngjunna.github.io/aes/05-Sound)**  
 - 05 **[Air quality](https://youngjunna.github.io/aes/06-AirQuality)**  
+- 06 **[Water quality](https://youngjunna.github.io/aes/07-WaterQuality)**  
+- 06 **[Feed](https://youngjunna.github.io/aes/08-ByProducts)**  
 
 ## Report & presentation
 

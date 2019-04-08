@@ -12,14 +12,12 @@ The classification of feed materials is summarized in Fig. \@ref(fig:feed-classi
 knitr::include_graphics("figures/feed-classification.png")
 ```
 
-## Agro by-product
+## By-products as animal feed
 ```{r sbm, fig.cap="Soybean oil, meal and beans.", echo = FALSE,  out.width="100%", fig.align='center'}
 knitr::include_graphics("figures/sbm.jpg")
 ```
 
 In modern livestock industry, high amount of grains and pulses are necessary to meet the requirement of high producing animal, however, these ingredients are in competition with humans (Knaus, 2013). **An agricultural by-product is a secondary product generated during harvest or processing of grains, vegetables, and fruits.** Although most by-products are human-inedible, they contain adequate organic materials which can be used by domestic animals. For hundreds of years, the livestock industry has been typically used these agricultural by-products as a practical alternative feed ingredient (Grasser et al., 1995). Hence, **using human-inedible by-products as feed ingredient could diminish the dependence on grains and pulses in livestock industry** (Bocquier and González-García, 2010). In addition, if agricultural by-products are not disposed properly, it can cause the substantial environmental problems (Grasser et al., 1995). 
-
-With their ability to convert human-inedible fibrous plant substrates into high-quality animal products, ruminants have always played a unique role in animal agriculture. However, the high performance levels of modern dairy and beef cattle have made it necessary to feed high amounts of grains and pulses to dairy cows, which also lead to an increase in the feed versus food competition between ruminants and humans (Knaus, 2009, 2013).
 
 There are some examples of by-products: 
 
