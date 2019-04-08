@@ -55,6 +55,8 @@ This website is (and will always be) __free to use__, and is licensed under the 
 - 1번째 발표한 조는 심사위원 점수 4점 획득
 - 2번째 발표한 조는 심사위원 점수 3~4점 획득
 
+- 4/8 발표평가: https://forms.gle/i3VTJSyuXgJqdaaw9
+
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
