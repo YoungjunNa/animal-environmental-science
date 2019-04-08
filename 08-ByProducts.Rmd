@@ -1,10 +1,25 @@
-# Agro by-products
+# Feed
 
-Global crop demands are predicted to increase about 100 to 110% by the year 2050 (from 2005 as baseline year) and concerns about future food security are rising. This reinforces pressure on livestock systems because animals are very inefficient in converting feed into animal products. About 89% of crop-produced calories fed to animals are lost and do not recur as human food in form of animal products. **However, when fed human-inedible feed, livestock can provide a net gain in food supply.**
+```{r hay-feed, fig.cap="Proper feeding is key for a sustainable livestock industry.", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/hay-feed.jpeg")
+```
+
+Feeding has a direct impact on the growth rate, production capacity and health status of the animal. Proper feeding is key for a profitable and sustainable farming.
+
+The classification of feed materials is summarized in Fig. \@ref(fig:feed-classification). It is based first on whether the product from which they are derived is edible by humans (i.e. cerealgrains, soybeans, pulses, banana and cassava) or not (roughages suchas grass, crop residues and fodder beets, cotton and rape seeds). Second, only part ofthe product is used as feed. In that case, the Economic Fraction Allocation (EFA) is used to identify which co-product is the main driver of the land use. If the EFA of the part used as feed material is > 66%, then the feed material is considered as the main driver of land-use and therefore in competition with food production.
+
+```{r feed-classification, fig.cap="Feed classification methodology (Mottet et al., 2017).", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/feed-classification.png")
+```
+
+## Agro by-product
+```{r sbm, fig.cap="Soybean oil, meal and beans.", echo = FALSE,  out.width="100%", fig.align='center'}
+knitr::include_graphics("figures/sbm.jpg")
+```
+
+In modern livestock industry, high amount of grains and pulses are necessary to meet the requirement of high producing animal, however, these ingredients are in competition with humans (Knaus, 2013). **An agricultural by-product is a secondary product generated during harvest or processing of grains, vegetables, and fruits.** Although most by-products are human-inedible, they contain adequate organic materials which can be used by domestic animals. For hundreds of years, the livestock industry has been typically used these agricultural by-products as a practical alternative feed ingredient (Grasser et al., 1995). Hence, **using human-inedible by-products as feed ingredient could diminish the dependence on grains and pulses in livestock industry** (Bocquier and González-García, 2010). In addition, if agricultural by-products are not disposed properly, it can cause the substantial environmental problems (Grasser et al., 1995). 
 
 With their ability to convert human-inedible fibrous plant substrates into high-quality animal products, ruminants have always played a unique role in animal agriculture. However, the high performance levels of modern dairy and beef cattle have made it necessary to feed high amounts of grains and pulses to dairy cows, which also lead to an increase in the feed versus food competition between ruminants and humans (Knaus, 2009, 2013).
-
-Food by-products are all those foods not pre-designated as cattle feed, such as grass, silage, etc. Using the by-products as feed is a strategy to become less dependent on cereals and oil seeds, which will become more important in human nutrition in the future. Moreover, it can prevent the environmental problems caused from the improper disposal of by-products (Grasser et al., 1995). The problems are the cost of transportation and shelf live for the various materials. In addition, by-products strongly vary in their chemical composition, and their effect on animal production indicators depends markedly on the type and amount of the by-product included in the ration. In general, by-products differ from common concentrates mainly in their starch and fiber contents.
 
 There are some examples of by-products: 
 
@@ -29,3 +44,7 @@ There are some examples of by-products:
 - Olive processing wastes, despite their lignin content, can be an efficient food because of their oil and protein content and as such they can be suitable as support for the straw fed to cattle living at maintenance level.
 
 The exploitation of high moisture by-products is problematic because of their short storage life and the high moisture content, which can often lead to negative effects, such as overheating, low digestibility and low feed consumption. Although there are the high risk when using the by-products as the animal feed, using of the by-product is a very good chance that of improved profit margins along with a contribution to environmental.
+
+## Appendix
+
+[World mapping of animal feeding systems in the dairy sector](http://www.fao.org/3/a-i3913e.pdf)

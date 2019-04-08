@@ -101,7 +101,7 @@ knitr::include_graphics("figures/1512.jpg")
 ```
 
 ## Livestock and sustainable management of water
-Agriculture uses approximately 70% of the available freshwater supply, and roughly 30% of global agricultural water goes on livestock production (Ran et al., 2016), with one third of that supporting beef cattle (Mekonnen and Hoekstra, 2012). Besides water scarcity, one of the central water-related challenges facing the livestock sector is waste management and disposal given that feces and urine can be hazardous to the environment. 
+Agriculture uses approximately 70% of the available freshwater supply, and roughly 30% of global agricultural water goes on livestock production (Ran et al., 2016), with one third of that supporting beef cattle (Mekonnen and Hoekstra, 2012). However, the largest proportion is associated with the production of feed. Besides water scarcity, one of the central water-related challenges facing the livestock sector is waste management and disposal given that feces and urine can be hazardous to the environment. 
 
 The water footprint has been used as an indicator of water consumption for both direct and indirect water usage at consumer and producer level. It aims to measure the total volume of freshwater used to produce the goods and services consumed or utilized by individuals, communities and businesses.
 
