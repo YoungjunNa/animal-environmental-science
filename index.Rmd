@@ -63,8 +63,9 @@ _CAUTION_: This website is now in progress. Some paragraphs borrowed the content
   
 **공모전 정보**: [제2회 한반도농생명포럼 공모전](http://www.good-farmers.org/single-post/2018/03/21/%EC%A0%9C2%ED%9A%8C-%ED%95%9C%EB%B0%98%EB%8F%84%EB%86%8D%EC%83%9D%EB%AA%85%ED%8F%AC%EB%9F%BC-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%95%88%EB%82%B4)
 
-**[시험문제 예시](https://github.com/YoungjunNa/aes/blob/master/2019-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9%E1%84%89%E1%85%A1-%E1%84%8B%E1%85%A8%E1%84%89%E1%85%B5.docx)**  
+**[시험문제 예시](https://github.com/YoungjunNa/aes/blob/master/2019-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9%E1%84%89%E1%85%A1-%E1%84%8B%E1%85%A8%E1%84%89%E1%85%B5.docx)**   
 
+**[포럼정보: 축산업에대한오해와진실-축산바로알리기연구회](https://github.com/YoungjunNa/aes/raw/master/2019-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A2%E1%84%8B%E1%85%AA%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AF-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%92%E1%85%AC.pdf)**
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
