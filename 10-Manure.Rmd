@@ -1,6 +1,20 @@
 # Manure
 
+Manure is an inevitable byproduct of livestock and poultry production. Manure is a valuable material that can be used as a source of organic matter and fertilizer for crop and pasture production. Manure can also be used as source of energy on the farm through anaerobic digestion to produce biomethane or thermochemical process (such as pyrolysis, gasification, or combustion) to produce heat or electricity. Some of the by-products of energy production can be further processed to produce value added chemicals.
+
+Typically, manure includes excreted material from the animal (feces and urine), used bedding, as well as wasted feed, water (drinking and wash), hair, and soil. The quantity of manure produced depend on several factors including:
+
+- animal type (ruminant or non-ruminant)
+- diet (forage-based or grain-based)
+- animal age (which can influence the amount of feed consumed)
+- animal environment
+- and animal productivity as well as other factors
+
 ## Charateristics of animal manure
+
+The chemical characteristics of manure primarily depend upon the chemical composition of the feed given to the animal. The animal metabolizes the feed to provide itself with energy and produce new body tissues and products. The waste products of metabolism are largely collected in urine and passed out with the feces (which may contain unused feed).
+
+Nutrient requirements by animals vary with animal type and stage of production. Usually, when the animal’s protein requirements decrease, the concentration of protein in the diet can also be decreased, thereby decreasing the concentrations of nitrogen excreted as a percent of body weight. Similarly, increased levels of minerals fed (e.g. copper, phosphorus, sodium, potassium) increase the level of those nutrients in the manure. It is recommended that manure analysis be done regularly especially if diet formulation and major changes in management of the livestock occurs.
 
 ## Manure treatment
 ### Solid fertilizer (Composting)
