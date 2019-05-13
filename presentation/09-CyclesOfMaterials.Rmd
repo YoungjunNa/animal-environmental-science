@@ -103,6 +103,49 @@ knitr::include_graphics("figures/clover.jpeg")
 
 2. Free living (nonsymbiotic) nitrogen fixers which includes the *Cyanobacteria*, *Anabaena*, and *Nostoc* and genera such as *Azotobacter, Beijerinckia,* and *Clostridium*.
 
+## Nitrogen pool
+- Nitrogen pool의 구성: 대기 pool, 토양 pool, 생물 pool
+- 질소순환 (nitrogen cycle): 대기, 토양, 생물의 세가지 질소 pool  사이의 질소교환
+
+1. 대기 pool:  대기중의 78%가 질소 , 생물학적, 산업적, 전기적 질소고정에 의해 질소 보충
+2. 토양 pool : 질소순환의 중심식물과 미생물에 의해 질산이온(NO3-,  nitrate)로 생물체로 들어감
+3. 생물 pool ; 식물의 광합성 작용에 의해 아미노산, 단백질 등의 유기질소로 전환, 동물이 식물 섭취, 먹이사슬에 따른 이동, 동물 배설물, 동물사체의 미생물 분해 – 토양으로 환원
+
+##
+```{r n-cycle, fig.cap="", echo = FALSE,  out.width="90%", fig.align='center'}
+knitr::include_graphics("extra/n-cycle.png")
+```
+
+## 자연현상에 의한 고정(번개, 자외선, 복사에너지)
+- 연간 총 질소고정량의 10% 
+- 유리 활성원소(H, O)와 N2의 반응 :  N2   →  NO, N2O 로 전환
+
+## 산업적 고정 
+- 대기중의 산화질소 공급원: 산업적 연소, 산불, 자동차 배기가스
+- 대기중의 산화질소 (NO, N2O 등)는 질산(HNO3)으로 쉽게 산화
+- 빗방울에 의해 토양으로 되돌아 옴
+- 산업적 고정(비료) : 연간 총 질소고정량의 15%가 고정됨
+
+## 생물학적 고정 
+- 살아있는 유기체에 의한 암모니아로의 환원
+- 연간 총 질소고정량의 75%가 고정됨
+
+##
+```{r legume1, fig.cap="", echo = FALSE,  out.width="90%", fig.align='center'}
+knitr::include_graphics("extra/legume1.png")
+```
+
+##
+```{r legume2, fig.cap="", echo = FALSE,  out.width="50%", fig.align='center'}
+knitr::include_graphics("extra/legume2.png")
+```
+
+##
+```{r legume3, fig.cap="", echo = FALSE,  out.width="80%", fig.align='center'}
+knitr::include_graphics("extra/legume3.png")
+```
+
+
 ##
 - Since bacterial cells die very rapidly, this nitrogen becomes available to the higher plants. 
 - Crops of clover and beans actually add nitrogen to the soils in which they grown and eliminate the need for expensive fertilizers. 
