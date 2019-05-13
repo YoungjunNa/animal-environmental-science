@@ -55,16 +55,27 @@ knitr::include_graphics("figures/co2-atmosphere.jpg")
 ```
 
 ##
-Carbon is the basis of all organic molecules. It makes up our genetic material (DNA and RNA) and proteins, which are essential for life. Carbon is so special because of its ability to bond to almost any other molecule. The major element within our bodies is carbon.
+- Carbon is the basis of all organic molecules. 
+- It makes up our genetic material (DNA and RNA) and proteins, which are essential for life. 
+- Carbon is so special because of its ability to bond to almost any other molecule. 
+- The major element within our bodies is carbon.
 
 ##
-The carbon cycle is the process through which carbon is cycled through the air, ground, plants, animals, and fossil fuels. Large amounts of carbon exist in the atmosphere as carbon dioxide (CO2). Carbon dioxide is cycled by green plants during the process known as photosynthesis to make organic molecules (glucose, which is food).
+- The carbon cycle is the process through which carbon is cycled through the air, ground, plants, animals, and fossil fuels. 
+- Large amounts of carbon exist in the atmosphere as carbon dioxide (CO2). 
+- Carbon dioxide is cycled by green plants during the process known as photosynthesis to make organic molecules (glucose, which is food).
 
 ##
-Animals release carbon dioxide back into the air as a waste product from respiration. Decomposers, when they break down dead organic matter, release carbon dioxide into the air also. Decomposers are essential because without them, all of the carbon on the planet would eventually become locked up in dead carcasses and other trash. 
+- Animals release carbon dioxide back into the air as a waste product from respiration. 
+- Decomposers, when they break down dead organic matter, release carbon dioxide into the air also.
+- Decomposers are essential because without them, all of the carbon on the planet would eventually become locked up in dead carcasses and other trash. 
 
 ##
-Carbon is also stored in fossil fuels, such as coal, petroleum, and natural gas. When these are burned, carbon dioxide is also released back into the air. Volcanoes and fires also release large amounts of CO2 into the atmosphere. Carbon dioxide can dissolve in water, where some of it is later returned back into the atmosphere. The rest can be taken to form calcium carbonate, which builds up shells, rocks, and skeletons of protozoans and coral.
+- Carbon is also stored in fossil fuels, such as coal, petroleum, and natural gas. 
+- When these are burned, carbon dioxide is also released back into the air. 
+- Volcanoes and fires also release large amounts of CO2 into the atmosphere. 
+- Carbon dioxide can dissolve in water, where some of it is later returned back into the atmosphere. 
+- The rest can be taken to form calcium carbonate, which builds up shells, rocks, and skeletons of protozoans and coral.
 
 # Nitrogen cycle
 
@@ -74,10 +85,17 @@ knitr::include_graphics("figures/clover.jpeg")
 ```
 
 ##
-Another important nutrient cycle is that of nitrogen. Nitrogen is a critically important element for all life. Proteins, which are constituents of all living cells, contain an average of 16% nitrogen by weight. Other complex nitrogenous substances important to life are nucleic acids and amino sugars. Without a continuous supply of nitrogen, life on earth would cease.
+- Another important nutrient cycle is that of nitrogen. 
+- Nitrogen is a critically important element for all life. 
+- Proteins, which are constituents of all living cells, contain an average of 16% nitrogen by weight. 
+- Other complex nitrogenous substances important to life are nucleic acids and amino sugars. 
+- Without a continuous supply of nitrogen, life on earth would cease.
 
 ##
-Even though 79% of the earth atmosphere is composed of elemental nitrogen (N2), this inert gas is entirely unavailable for uptake by most plants and animals. A relatively few microbes are capable of fixing atmospheric nitrogen from the inorganic to the organic form. A number of bacteria, fungi, and blue-green algae are known to be able to fix nitrogen. Nitrogen fixation involves the direct incorporation of atmospheric nitrogen into the organic body of the fixing organisms. 
+- Even though 79% of the earth atmosphere is composed of elemental nitrogen (N2), this inert gas is entirely unavailable for uptake by most plants and animals. 
+- A relatively few microbes are capable of fixing atmospheric nitrogen from the inorganic to the organic form. 
+- A number of bacteria, fungi, and blue-green algae are known to be able to fix nitrogen. 
+- Nitrogen fixation involves the direct incorporation of atmospheric nitrogen into the organic body of the fixing organisms. 
 
 ## Nitrogen fixing organisms can be divided into:
 
@@ -86,4 +104,6 @@ Even though 79% of the earth atmosphere is composed of elemental nitrogen (N2), 
 2. Free living (nonsymbiotic) nitrogen fixers which includes the *Cyanobacteria*, *Anabaena*, and *Nostoc* and genera such as *Azotobacter, Beijerinckia,* and *Clostridium*.
 
 ##
-Since bacterial cells die very rapidly, this nitrogen becomes available to the higher plants. Crops of clover and beans actually add nitrogen to the soils in which they grown and eliminate the need for expensive fertilizers. The symbiotic nitrogen fixers seem to be confined to terrestrial ecosystems and have not been found in aquatic habitats. 
+- Since bacterial cells die very rapidly, this nitrogen becomes available to the higher plants. 
+- Crops of clover and beans actually add nitrogen to the soils in which they grown and eliminate the need for expensive fertilizers. 
+- The symbiotic nitrogen fixers seem to be confined to terrestrial ecosystems and have not been found in aquatic habitats. 
