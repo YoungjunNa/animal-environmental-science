@@ -18,6 +18,23 @@ Nutrient requirements by animals vary with animal type and stage of production. 
 
 ## Manure treatment
 ### Solid fertilizer (Composting)
+Compost is organic matter that has been decomposed in a process called composting. This process recycles various organic materials otherwise regarded as waste products and produces a soil conditioner (the compost). On many farms, the basic composting ingredients are animal manure generated on the farm and bedding. Straw and sawdust are common bedding materials. Non-traditional bedding materials are also used, including newspaper and chopped cardboard. Composting is an aerobic method (meaning that it requires the presence of air) of decomposing organic solid wastes.
+
+Composting organisms require four equally important ingredients to work effectively:
+
+1. Carbon — for energy; the microbial oxidation of carbon produces the heat, if included at suggested levels. High carbon materials tend to be brown and dry.
+2. Nitrogen — to grow and reproduce more organisms to oxidize the carbon. High nitrogen materials tend to be green (or colorful, such as fruits and vegetables) and wet.
+3. Oxygen — for oxidizing the carbon, the decomposition process.
+4. Water — in the right amounts to maintain activity without causing anaerobic conditions.
+
+#### Phase of composting
+
+Under ideal conditions, composting proceeds through three major phases:
+
+1. An initial, mesophilic phase, in which the decomposition is carried out under moderate temperatures by mesophilic microorganisms.
+2. As the temperature rises, a second, thermophilic phase starts, in which the decomposition is carried out by various thermophilic bacteria under high temperatures.
+3. As the supply of high-energy compounds dwindles, the temperature starts to decrease, and the mesophiles once again predominate in the maturation phase.
+
 ### Liquid fertilizer
 ### Purification
 ### Energy generation
