@@ -1,0 +1,75 @@
+---
+title: "Animal Environmental Science"
+author: ["Sangrak Lee; Youngjun Na"]
+date: "Last update: `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A book for animal environmental science"
+---
+# Welcome {-}  
+
+This is the website for **"Animal environmental science"**. To understanding individual animals, we have to understand the relationship they have with their environment. This book will focus at the interaction between animals and the environment.        
+
+_CAUTION_: This website is now in progress. Some paragraphs borrowed the content and sentence from multiple author's as it is. However, it will be changed in the near future. This website is (and will always be) __free to use__, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/us/) License. The book is written in [RMarkdown](https://rmarkdown.rstudio.com) with [bookdown](https://bookdown.org). Some photographs used in this book was from [Unsplash.com](https://unsplash.com/). If you click the download button up above, you can download the PDF version of the book.
+
+![](figures/monkey.jpeg)  
+(Snow Monkey Niseko, Kutchan-chō, Japan)
+
+## Presentation files  
+- 01 **[Animal and environment](https://youngjunna.github.io/aes/02-AnimalandEnvironment)**  
+- 02 **[Temperature](https://youngjunna.github.io/aes/03-Temperature)**  
+- 03 **[Genetics, nutrition, and environment](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/03%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8.pdf)**  
+- 03 **[Light](https://youngjunna.github.io/aes/04-Light)**  
+- 04 **[Human, animal, and environment](https://github.com/YoungjunNa/aes/raw/master/04-aes.pdf)**  
+- 04 **[Sound](https://youngjunna.github.io/aes/05-Sound)**  
+- 05 **[Air quality](https://youngjunna.github.io/aes/06-AirQuality)**  
+- 06 **[Water quality](https://youngjunna.github.io/aes/07-WaterQuality)**  
+- 06 **[Feed](https://youngjunna.github.io/aes/08-ByProducts)**  
+- 07 **[Cycles of materials](https://youngjunna.github.io/aes/09-CyclesOfMaterials)**  
+- 08 **[가축분뇨 자원화](https://drive.google.com/file/d/1zayyDJWH9KQ0vKPsu2tNeH75u-USbIFv/view?usp=sharing)**  
+- 09 **[통일과 농축산업(장경국)](https://github.com/YoungjunNa/aes/blob/master/190509-%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AE%E1%86%A8-PositiveSumGame%20%E1%84%90%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%82%E1%85%A9%E1%86%BC%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%B8-%E1%84%80%E1%85%A5%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%83%E1%85%A2.pdf)**
+- 10 **[축산환경 관련 주요이슈와 국립축산과학원의 역할](https://github.com/YoungjunNa/aes/blob/master/%EA%B1%B4%EA%B5%AD%EB%8C%80%20%ED%8A%B9%EA%B0%95-201906034-%EC%B6%95%EC%82%B0%ED%99%98%EA%B2%BD%EA%B3%BC%EC%9E%A5-%ED%95%9C%EA%B5%AD%EC%9D%98%20%EC%B6%95%EC%82%B0%ED%99%98%EA%B2%BD%20%EB%8F%99%ED%96%A5%C2%B7%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%EC%97%B0%EA%B5%AC%EA%B3%84%ED%9A%8D-2-%ED%94%84%EB%A6%B0%ED%8A%B8.pdf)**  
+- 10 **[축산냄새](https://drive.google.com/open?id=1Hze2tdsbKGxIF02kD9K_9p8RFX9vLFoE)**  
+
+## Report & presentation
+
+**조 구성**  
+- 5인 1조
+
+**주제**  
+1. 공통: 축산의 가치는 무엇일까? (5분)—식량안보/단백질공급에 대한 내용은 최소화  
+2. **축산이 국민들에게 사랑받을 수 있는 방법**이 무엇일까?: 구체적인 대안을 고민/발표(15분)  
+3. 어떻게 해야 **지속가능한 축산이 될 수 있을까?** (15분) or **통일에 대비한/통일 후 축산**에 대해서  
+
+**역할**  
+1. 조장: 모든 문제를 조율하고 팀을 잘 이끄는 역할; 공통주제 발표(5분)  
+2. 발표자 1: 주제1에 대한 발표  
+3. 발표자 2: 주제2에 대한 발표  
+4. 기록자 1: 주제 1 내용을 글로 잘 설명 및 제출  
+5. 기록자 2: 주제 2 내용을 글로 잘 설명 및 제출  
+- 발표 및 기록자료 제출: MS word; 발표 당일 09:00까지 email로
+
+**채점기준**  
+- 주요 기준: 주제에 대해 **얼마나 고민을 많이 한 흔적이 보이는가?**  
+- 4점: 청중  
+- 4점: 강의자  
+- Total Score: 8/8  
+- 1번째 발표한 조는 심사위원 점수 4점 획득
+- 2번째 발표한 조는 심사위원 점수 3~4점 획득  
+
+**북한관련 자료**  
+- [리스트](https://github.com/YoungjunNa/aes/blob/master/NK.pdf)  
+- [굿파머스 공모전](http://www.good-farmers.org/single-post/2018/06/11/%EA%B5%BF%ED%8C%8C%EB%A8%B8%EC%8A%A4-%EC%A0%9C1%ED%9A%8C-%ED%95%9C%EB%B0%98%EB%8F%84%EB%86%8D%EC%83%9D%EB%AA%85-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%88%98%EC%83%81%EC%9E%91)  
+  
+**공모전 정보**: [제2회 한반도농생명포럼 공모전](http://www.good-farmers.org/single-post/2018/03/21/%EC%A0%9C2%ED%9A%8C-%ED%95%9C%EB%B0%98%EB%8F%84%EB%86%8D%EC%83%9D%EB%AA%85%ED%8F%AC%EB%9F%BC-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%95%88%EB%82%B4)
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
