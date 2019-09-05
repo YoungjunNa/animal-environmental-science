@@ -1,0 +1,38 @@
+# Manure
+
+**[가축분뇨 자원화](https://drive.google.com/file/d/1zayyDJWH9KQ0vKPsu2tNeH75u-USbIFv/view?usp=sharing)** 프리젠테이션 파일을 참고해주세요.  
+
+Manure is an inevitable byproduct of livestock and poultry production. Manure is a valuable material that can be used as a source of organic matter and fertilizer for crop and pasture production. Manure can also be used as source of energy on the farm through anaerobic digestion to produce biomethane or thermochemical process (such as pyrolysis, gasification, or combustion) to produce heat or electricity. Some of the by-products of energy production can be further processed to produce value added chemicals.
+
+Typically, manure includes excreted material from the animal (feces and urine), used bedding, as well as wasted feed, water (drinking and wash), hair, and soil. The quantity of manure produced depend on several factors including:
+
+- animal type (ruminant or non-ruminant)
+- diet (forage-based or grain-based)
+- animal age (which can influence the amount of feed consumed)
+- animal environment
+- and animal productivity as well as other factors
+
+## Charateristics of animal manure
+
+The chemical characteristics of manure primarily depend upon the chemical composition of the feed given to the animal. The animal metabolizes the feed to provide itself with energy and produce new body tissues and products. The waste products of metabolism are largely collected in urine and passed out with the feces (which may contain unused feed).
+
+Nutrient requirements by animals vary with animal type and stage of production. Usually, when the animal’s protein requirements decrease, the concentration of protein in the diet can also be decreased, thereby decreasing the concentrations of nitrogen excreted as a percent of body weight. Similarly, increased levels of minerals fed (e.g. copper, phosphorus, sodium, potassium) increase the level of those nutrients in the manure. It is recommended that manure analysis be done regularly especially if diet formulation and major changes in management of the livestock occurs.
+
+## Manure treatment
+### Solid fertilizer (Composting)
+Compost is organic matter that has been decomposed in a process called composting. This process recycles various organic materials otherwise regarded as waste products and produces a soil conditioner (the compost). On many farms, the basic composting ingredients are animal manure generated on the farm and bedding. Straw and sawdust are common bedding materials. Non-traditional bedding materials are also used, including newspaper and chopped cardboard. Composting is an aerobic method (meaning that it requires the presence of air) of decomposing organic solid wastes.
+
+Composting organisms require four equally important ingredients to work effectively:
+
+1. Carbon — for energy; the microbial oxidation of carbon produces the heat, if included at suggested levels. High carbon materials tend to be brown and dry.
+2. Nitrogen — to grow and reproduce more organisms to oxidize the carbon. High nitrogen materials tend to be green (or colorful, such as fruits and vegetables) and wet.
+3. Oxygen — for oxidizing the carbon, the decomposition process.
+4. Water — in the right amounts to maintain activity without causing anaerobic conditions.
+
+#### Phase of composting
+
+Under ideal conditions, composting proceeds through three major phases:
+
+1. An initial, mesophilic phase, in which the decomposition is carried out under moderate temperatures by mesophilic microorganisms.
+2. As the temperature rises, a second, thermophilic phase starts, in which the decomposition is carried out by various thermophilic bacteria under high temperatures.
+3. As the supply of high-energy compounds dwindles, the temperature starts to decrease, and the mesophiles once again predominate in the maturation phase.
