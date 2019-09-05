@@ -1,10 +1,8 @@
 ---
 title: "Temperature"
 author: "Youngjun Na"
-date: '2019 3 12 '
 output: 
   ioslides_presentation
-  pdf_document
 ---
 
 ```{r setup, include=FALSE}

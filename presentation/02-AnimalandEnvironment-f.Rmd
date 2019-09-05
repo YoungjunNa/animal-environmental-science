@@ -1,7 +1,6 @@
 ---
 title: "Animal and environment"
 author: "Youngjun Na"
-date: 2019-04-01
 output: ioslides_presentation
 ---
 
