@@ -101,7 +101,7 @@ tibble::tribble(
 ```
 
 
-## Temperature humidity index (THI)  
+## Temperature humidity index   
 
 The productivity of domestic animals is primarily affected by air temperature, and altered by wind, humidity, and radiation. Temperature–humidity index (THI) is a combination of temperature and humidity that is a measure of the degree of discomfort experienced by an individual in warm weather (a.k.a. discomfort index). This unitless index was first introduced by Thom (1959) to describe the effect of ambient temperature on humans but has been adapted to describe thermal conditions that drive heat stress in dairy cattle (De Rensis et al., 2015). Temperature-humidity index for dairy cow is calculated as 
 

@@ -1,7 +1,5 @@
 # Manure
 
-**[가축분뇨 자원화](https://drive.google.com/file/d/1zayyDJWH9KQ0vKPsu2tNeH75u-USbIFv/view?usp=sharing)** 프리젠테이션 파일을 참고해주세요.  
-
 Manure is an inevitable byproduct of livestock and poultry production. Manure is a valuable material that can be used as a source of organic matter and fertilizer for crop and pasture production. Manure can also be used as source of energy on the farm through anaerobic digestion to produce biomethane or thermochemical process (such as pyrolysis, gasification, or combustion) to produce heat or electricity. Some of the by-products of energy production can be further processed to produce value added chemicals.
 
 Typically, manure includes excreted material from the animal (feces and urine), used bedding, as well as wasted feed, water (drinking and wash), hair, and soil. The quantity of manure produced depend on several factors including:

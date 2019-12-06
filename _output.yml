@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Animal environmental science</a></li>
+        <li><a href="./">Animal Environmental Science</a></li>
     download: ["pdf", "epub"]
   includes:
     in_header: google_analytics.html

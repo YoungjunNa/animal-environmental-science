@@ -2,6 +2,8 @@
 ## External environment
 Animal never separates from the stimuli from outside. Basically, animals can find food, shelter, protection, and mates from the environment called *habitat*. The animal habitat includes both phisical (non-living) and biotic (livinig) components (Table \@ref(tab:habitat)). 
 
+Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components.
+
 ```{r habitat, tab.cap="Components of habitat (physical and biotic)", tidy=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 tibble::tribble(
@@ -17,21 +19,10 @@ tibble::tribble(
   knitr::kable(caption = "Components of habitat (physical and biotic)", booktabs = TRUE)
 ```
 
-Animal habitat is constantly changed over time. Not only natural disasters (eruption of volcano, earthquake, tsunami, and wildfire), also human activity can affect the animal habitat. Unlike the wildlife, the environment of domesticated animals (such as cow, pig, poultry, and dog) that raised in the facility are controlled by the human. In the domestic animals, the external environment includes both physical (e.g. housing, feeder, paddock, fence, and noise) and biotic (e.g. human, mate, and feed ingredients) components.
-
 ### Biome
 A biome is a community of plants and animals that have common characteristics for the environment they exist in (Figure \@ref(fig:biomes)). They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate. 
 
-The principal biome-types are:
-
-1. Tundra 
-2. Taiga 
-3. Deciduous forest
-4. Grasslands
-5. Desert
-6. High plateaus
-7. Tropical forest
-8. Minor terrestrial biomes
+The principal biome-types are Tundra, Taiga, Deciduous forest, Grasslands, Desert, High plateaus, Tropical forest, and Minor terrestrial biomes.
 
 ```{r biomes, fig.cap="Mapping terrestrial biomes around the world", echo = FALSE, out.width = "100%", fig.align='center'}
 knitr::include_graphics("figures/biomes.png")
@@ -39,19 +30,11 @@ knitr::include_graphics("figures/biomes.png")
 
 Holdridge (1947; 1967) classified climates based on the biological effects of temperature and rainfall on vegetation under the assumption that these two abiotic factors are the largest determinants of the types of vegetation found in a habitat (Figure \@ref(fig:holdridge)).
 
-The three axes of the barycentric subdivisions are:
-
-1. Precipitation (annual, logarithmic)
-2. Biotemperature (mean annual, logarithmic)
-3. Potential evapotranspiration ratio (PET) to mean total annual precipitation.  
+The three axes of the barycentric subdivisions are 1) Precipitation (annual, logarithmic) 2) Biotemperature (mean annual, logarithmic), and 3) Potential evapotranspiration ratio (PET) to mean total annual precipitation.  
   
-Further indicators incorporated into the system are:
+Further indicators incorporated into the system are 1) Humidity provinces, 2) Latitudinal regions, and 3) Altitudinal belts.
 
-1. Humidity provinces
-2. Latitudinal regions
-3. Altitudinal belts
-
-```{r holdridge, fig.cap="Holdridge life zone classification scheme.", echo = FALSE, out.width = "100%", fig.align='center'}
+```{r holdridge, fig.cap="Holdridge life zone classification scheme.", echo = FALSE, out.width = "65%", fig.align='left'}
 knitr::include_graphics("figures/lifezones.png")
 ```
 
@@ -60,7 +43,7 @@ knitr::include_graphics("figures/lifezones.png")
 
 Higher animals have complex systems that respond to stimuli to perform their essential body functions. When the animal receives the signals from the sensory organs, they produce a local reflex action and/or react in the central nervous system. Weak signals produce no responses, but strong stimuli change the physiological or behavioral status of the animal.  
 
-```{r ext-int-env, fig.cap="External and internal environment", echo = FALSE, out.width = "60%", fig.align='center'}
+```{r ext-int-env, fig.cap="External and internal environment", echo = FALSE, out.width = "60%", fig.align='left'}
 knitr::include_graphics("figures/animal-env.png")
 ```
 
@@ -69,6 +52,8 @@ knitr::include_graphics("figures/animal-env.png")
 > "Each and every species is able to exist and reproduce successfully only within a definite range of environmental conditions." --- Ronald Good
 
 Although external environments are continuously changed, if animals in the normal status, they keep the composition of the extracellular fluid (internal environment) constant to maintain their life. We call it *homeostasis*. 
+
+However, the capacity to maintain the homeostasis is broken when the animals let the harsh environments and differ by their species. **Animals may be limited in their growth and their occurrence by the minimum, maximum, and optimum condition** [@shelford] (Fig. \@ref(fig:law-of-tol)).
 
 ```{r homeostasis, tab.cap="List of homeostatic control variables", tidy=FALSE, echo=FALSE, message=FALSE}
 tibble::tribble(
@@ -81,9 +66,7 @@ tibble::tribble(
 ) %>% knitr::kable(caption = "List of homeostatic control variables", booktabs = TRUE)
 ```
 
-However, the capacity to maintain the homeostasis is broken when the animals let the harsh environments and differ by their species. **Animals may be limited in their growth and their occurrence by the minimum, maximum, and optimum condition** [@shelford] (Fig. \@ref(fig:law-of-tol)).
-
-```{r law-of-tol, fig.cap="Shelford's law of tolerance", echo=FALSE, message=FALSE, fig.width=6, fig.height=3, fig.align='center'}
+```{r law-of-tol, fig.cap="Shelford's law of tolerance", echo=FALSE, message=FALSE, fig.width=6, fig.height=3, fig.align='left'}
 library(ggplot2)
 library(ggthemes)
 
@@ -113,12 +96,11 @@ The optimum range of environmental condition may differ within the same organism
 
 Structural adaptation is the changes in physical features (e.g. body shape, skin, and internal organs) of the animal. Behavioral adaptation is the changes in behaviors (e.g. searching for food, mating, vocalizations, and mitigation) of the animal. Physiological adaptation is the changes in the animal body functions such as growth, temperature regulation, and ionic balance. Sometimes, adapted animal create a new species (*speciation*).
 
+### Acclimatization
+
+Acclimatization is the physiological changes induced by a complex of factors such as altitude, temperature, humidity, photoperiod, or pH. Acclimatization is the short-term process (hours to weeks) by comparison with adaptation (take place over many generations).  
 
 ```{r adaptation, fig.cap="Migration is an example of a behavioral adaptation. Grey whales swim from the Arctic to Mexico every year.", echo = FALSE, out.width = "100%", fig.align='center'}
 
 knitr::include_graphics("figures/adaptation.jpeg")
 ```
-
-### Acclimatization
-
-Acclimatization is the physiological changes induced by a complex of factors such as altitude, temperature, humidity, photoperiod, or pH. Acclimatization is the short-term process (hours to weeks) by comparison with adaptation (take place over many generations).  
