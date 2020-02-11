@@ -1,6 +1,6 @@
 ---
 title: "Animal Environmental Science"
-author: ["Sangrak Lee and Youngjun Na"]
+author: ["Sangrak Lee, Yongjun Choi, and Youngjun Na"]
 date: "Last update: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
